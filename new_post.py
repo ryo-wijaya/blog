@@ -16,7 +16,7 @@ sgt = timezone(timedelta(hours=8))  # Singapore Time (+0800)
 date = datetime.now(sgt).strftime("%Y-%m-%d %H:%M:%S %z")
 filename = f"_posts/{datetime.now(sgt).strftime('%Y-%m-%d')}-{slug}.md"
 
-# Front matter template
+# Front matter template with image options
 front_matter = f"""---
 layout: post
 title: "{title}"
@@ -25,7 +25,10 @@ description: >-
 author: ryo
 date: {date}
 categories: [Category1, Category2]
-image: /path/to/image
+image:
+  path: /path/to/image
+  caption: "This is the caption for the feature image."
+  alt: "A description of the image."
 toc: true
 comments: false
 pin: false

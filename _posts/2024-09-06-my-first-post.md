@@ -5,9 +5,12 @@ description: >-
   I finally decided to start some sort of blog where I can document what I’ve learned along my software engineering journey!
 author: ryo
 categories: [Admin]
-pin: true
-image: assets/img/eevee-tar.jpeg
+image:
+  path: assets/img/admin/first-post-resized.jpg
+  caption: My dog Eevee chilling in a field.
+  alt: My dog Eevee chilling in a field.
 date: 2024-09-06 20:25:00 +0800
+pin: true
 published: true
 comments: true
 toc: true
