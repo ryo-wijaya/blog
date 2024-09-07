@@ -4,7 +4,6 @@ title: My First Post
 description: >-
   I finally decided to start some sort of blog where I can document what I’ve learned along my software engineering journey!
 author: ryo
-date: 2024-09-06 20:25:00 +0800
 categories: [Admin]
 pin: true
 image: assets/img/eevee-tar.jpeg
