@@ -16,7 +16,7 @@ timezone: Asia/Singapore
 
 title: Ryo's Space # the main title
 
-tagline: "<div>Welcome to my engineering space! I'm a Junior Software Engineer currently working in finance.</div><div style='padding-bottom: 10px;'></div><div>This site will be used to keep track of my software engineering journey, helping to ensure that things learned are not forgotten by my goldfish memory.</div>"
+tagline: This site will be used to keep track of my software engineering journey, helping to ensure that things learned are not forgotten by my goldfish memory
 
 description: >- # used by seo meta and the atom feed
   Engineering space/blog by Ryo Wijaya, used to store information that will be forgotten by him otherwise.
