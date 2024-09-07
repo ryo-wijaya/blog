@@ -1,3 +1,7 @@
+### Info
+
+This space runs on Jekyll, Ruby, Github Pages and Actions, Markdown pages and uses the Chirpy Jekyll Theme. 
+
 ### Development
 
 * Start a local server
