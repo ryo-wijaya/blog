@@ -7,7 +7,7 @@ author: ryo
 date: 2024-09-06 20:25:00 +0800
 categories: [Admin]
 pin: true
-image: /assets/img/eevee-tar.jpeg
+image: assets/img/eevee-tar.jpeg
 date: 2024-09-06 20:25:00 +0800
 published: true
 comments: true
