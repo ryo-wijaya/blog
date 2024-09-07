@@ -1,7 +1,7 @@
 <!-- The Side Bar -->
 
 <aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
-  <button type="button" class="btn btn-link nav-link position-absolute top-0 end-0 m-4" aria-label="Switch Mode"
+  <button type="button" class="btn btn-link nav-link position-absolute top-0 end-0 m-3" aria-label="Switch Mode"
     id="mode-toggle">
     <i class="fas fa-adjust fa-2x"></i>
   </button>
@@ -15,10 +15,17 @@
       {%- endif -%}
     </a>
 
-    <h1 class="site-title">
+    <div class="site-title">
+      <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    </div>
+    <div class="site-subtitle font-italic text-start align-self-start">{{ site.tagline }}</div>
+
+
+
+    <!-- <h1 class="site-title">
       <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
     </h1>
-    <p class="site-subtitle fst-italic mb-0">{{ site.tagline }}</p>
+    <p class="site-subtitle fst-italic mb-0">{{ site.tagline }}</p> -->
   </header>
   <!-- .profile-wrapper -->
 
