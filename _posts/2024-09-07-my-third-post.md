@@ -6,6 +6,7 @@ description: >-
   Sub-Category Test
 author: ryo
 categories: [Admin, Sub-Category-Test]
+comments: false
 ---
 
 This is a post to test my sub categorying.
