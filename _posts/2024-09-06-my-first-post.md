@@ -1,5 +1,6 @@
 ---
-title: My First Post!
+layout: post
+title: My First Post
 description: >-
   I finally decided to start some sort of blog where I can document what I’ve learned along my software engineering journey!
 author: ryo
