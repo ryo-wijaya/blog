@@ -14,12 +14,12 @@ timezone: Asia/Singapore
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Ryo's Space # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: "<div>Welcome to my engineering space!</div><div style='padding-bottom: 10px;'></div><div>I use this site to keep track of my software engineering journey, helping to ensure that things learned are not forgotten by my goldfish memory.</div>"
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Engineering space/blog by Ryo Wijaya, used to store information that will be forgotten by him otherwise.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/eevee-tar.jpeg"
+avatar: "/assets/img/eevee-tar.jpeg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
