@@ -10,10 +10,11 @@ This space runs on Jekyll, Liquid templates, Ruby, Github Pages and Actions, Mar
   bundle exec jekyll s
   ```
 
-- Install dependencies listed in `Gemfile`
+- Clean and build
 
   ```shell
-  bundle
+  bundle exec jekyll clean
+  bundle exec jekyll build
   ```
 
 - View all available jekyll commands
