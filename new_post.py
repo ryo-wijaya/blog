@@ -26,9 +26,10 @@ author: ryo
 date: {date}
 categories: [Category1, Category2]
 image:
-  path: /path/to/image
+  path: assets/img/<slug>/<file>
   caption: "This is the caption for the feature image."
   alt: "A description of the image."
+show_image_in_post: true
 toc: true
 comments: false
 pin: false

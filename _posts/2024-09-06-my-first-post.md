@@ -1,14 +1,15 @@
 ---
 layout: post
-title: My First Post
+title: My First Post!
 description: >-
-  I finally decided to start some sort of blog where I can document what I’ve learned along my software engineering journey!
+  I finally decided to start some sort of blog where I can document what I’ve learned along my software engineering journey.
 author: ryo
 categories: [Admin]
 image:
   path: assets/img/admin/first-post-resized.jpg
-  caption: My dog Eevee chilling in a field.
-  alt: My dog Eevee chilling in a field.
+  caption: My dog Eevee chilling in a field
+  alt: My dog Eevee chilling in a field
+show_image_in_post: true
 date: 2024-09-06 20:25:00 +0800
 pin: true
 published: true

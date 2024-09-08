@@ -26,6 +26,12 @@ This blog runs on Jekyll, Liquid templates for layouts, and GitHub Actions and P
   bundle exec jekyll s
   ```
 
+- Start a local server with draft posts seen as published
+
+  ```shell
+  bundle exec jekyll s --drafts
+  ```
+
 - Clean and build
 
   ```shell
