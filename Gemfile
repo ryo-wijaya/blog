@@ -13,5 +13,6 @@ end
 
 gem 'wdm', '>= 0.1.0', :platforms => [:mingw, :mswin, :x64_mingw, :jruby]
 
-
 gem 'jekyll-compose', group: [:jekyll_plugins]
+
+gem "jekyll-emoji"
