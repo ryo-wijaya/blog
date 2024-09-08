@@ -11,7 +11,7 @@ image:
   alt: Reluvate Technologies Logo
 show_image_in_post: false
 toc: true
-comments: false
+comments: true
 pin: false
 published: true
 ---
