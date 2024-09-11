@@ -18,19 +18,15 @@ published: true
 
 ## Introduction
 
-Reluvate Technologies was a company that I applied to for a 3-month internship, right after my 2nd year at university ended. I actually spent [half of my first year as a NUS Business student](https://blog.ryo-wijaya.me/transfer), leaving me a bunch of stuff to catch up on when I finally transferred courses. This led to me unfortunately not having any prior development experiences besides what I had learned in school, essentially meaning that I was going in blind.
+Reluvate Technologies was a company that I applied to for a 3-month internship, right after my 2nd year at university ended. I actually spent [half of my first year as a NUS Business student](https://blog.ryo-wijaya.me/transfer), leaving me a bunch of stuff to catch up on when I finally transferred courses. This led to me unfortunately not having any prior development experiences besides what I had learned in school, essentially meaning that I was going in blind. I applied for the Backend Software Engineering Intern role.
 
 ## About Reluvate Technologies
+
+![Reluvate Logo](assets/img/internship/reluvate-logo-mini.png){: width="260" height="260" .right}
 
 <a href="https://www.reluvate.com/" target="_blank">Reluvate Technologies</a> is a Singapore-based startup specializing in IT consulting, with a focus on AI and automation solutions. Their aim is to empower businesses into becoming autonomous organizations (AOs), providing customized tools and software to improve operational efficiency and free up manpower and time for strategic decision-making.
 
 Working with Reluvate was quite the trip, but in a good way. Reluvate fosters a flexible work environment that minimizes micromanagement, empowering employees with the freedom to manage their own schedules (you'll see many people working strange hours, like after midnight, including me). Team members are given the opportunity to contribute to every stage of the product lifecycle, from idea conception to final delivery. As a small company, you'll also have plenty of opportunities to interact with the startup founders, who are honestly a different breed of people when it comes to embodying ownership and commitment.
-
-### Application Process
-
-I initially applied for the Backend Engineer Intern role. After applying, I was asked if I can have the interview at night, which being a night owl myself, I also prefer. I ended up having my interview close to midnight :skull:, which involved some live coding, as well as a chat about my school projects. Despite being super nervous, I managed to not bomb the interview too hard.
-
-The next stage was a take-home assignment focused on building a Django + SQLite3 REST backend with user authentication, allowing users to manage a portfolio of Pokémon, view unowned Pokémon, and implement a simple game to catch new ones. Not long after that I got an offer, and I hopped straight onto a Signal call for my first project briefing at 9pm.
 
 ## Projects and Responsibilities
 

@@ -6,6 +6,9 @@ description: >-
 author: ryo
 categories: [Admin]
 image:
+  path: assets/img/admin/eevee-face-2.jpg
+  alt: Eevee face
+override_image:
   path: assets/img/admin/first-post-resized.jpg
   alt: My dog Eevee chilling in a field
 show_image_in_post: true
@@ -28,12 +31,12 @@ By documenting the following insights, I hope this blog becomes a valuable resou
 
 #### 1. Engineering Journal
 
-I plan to document my personal journey as a software engineer in a journal format, reflecting on week-to-week challenges.
+I plan to document my personal journey as a software engineer in a journal format, reflecting on challenges at work on a sprint-by-sprint basis. This will hopefully save me some time when facing similar problems in the future.
 
 #### 2. Technical Deep Dives
 
-I plan to document a range of software development topics—everything from design patterns and architectural concepts to my understanding of good coding practices and software engineering processes.
+I plan to document a range of software development topics—everything from design patterns and architectural concepts to my understanding of good coding practices and software engineering processes. This should force me to learn via research.
 
 #### 3. Core Computing Concepts
 
-I plan to document foundational computing principles such as data structures, algorithms, networking, and operating system design, which are core to any engineer’s toolkit.
+I plan to document foundational computing principles such as data structures, algorithms, networking, and operating system design, which are core to any engineer’s toolkit. If I don't have something back to refer to, all of these will slowly vacate my hippocampus 🤡.
