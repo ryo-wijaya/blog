@@ -33,22 +33,29 @@ tail_includes:
       </span>
       {% endif %}
 
-      {% if page.image and page.show_image_in_post != false %}
-        {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
-        {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
-        {% capture alt %}alt="{{ page.image.alt | xml_escape | default: "Preview Image" }}"{% endcapture %}
-
-        {% if page.image.lqip %}
-        {%- capture lqip -%}lqip="{{ page.image.lqip }}"{%- endcapture -%}
-        {% endif %}
-
-        <div class="mt-3 mb-3">
-          <img {{ src }} {{ class }} {{ alt }} w="1200" h="630" {{ lqip }}>
-          {%- if page.image.alt -%}
-          <figcaption class="text-center pt-2 pb-2">{{ page.image.alt }}</figcaption>
-          {%- endif -%}
-        </div>
-      {% endif %}
+      {% if page.override_image and page.show_image_in_post != false %}
+      <!-- Inside post, use override_image -->
+      {% capture src %}src="{{ page.override_image.path | default: page.override_image.path }}"{% endcapture %}
+      {% capture class %}class="preview-img{% if page.override_image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
+      {% capture alt %}alt="{{ page.override_image.alt | xml_escape | default: "Override Image" }}"{% endcapture %}
+      <div class="mt-3 mb-3">
+        <img {{ src }} {{ class }} {{ alt }} w="1200" h="630">
+        {%- if page.override_image.alt -%}
+        <figcaption class="text-center pt-2 pb-2">{{ page.override_image.alt }}</figcaption>
+        {%- endif -%}
+      </div>
+    {% elsif page.image and page.show_image_in_post != false %}
+      <!-- Default behavior: Use image if override_image is not present -->
+      {% capture src %}src="{{ page.image.path | default: page.image.path }}"{% endcapture %}
+      {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
+      {% capture alt %}alt="{{ page.image.alt | xml_escape | default: "Preview Image" }}"{% endcapture %}
+      <div class="mt-3 mb-3">
+        <img {{ src }} {{ class }} {{ alt }} w="1200" h="630">
+        {%- if page.image.alt -%}
+        <figcaption class="text-center pt-2 pb-2">{{ page.image.alt }}</figcaption>
+        {%- endif -%}
+      </div>
+    {% endif %}    
 
       <div class="d-flex justify-content-between">
         <!-- author(s) -->
