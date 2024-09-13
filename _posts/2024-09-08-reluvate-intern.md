@@ -18,7 +18,7 @@ published: true
 
 ## Introduction
 
-Reluvate Technologies was a company that I applied to for a 3-month internship, right after my 2nd year at university ended. I actually spent [half of my first year as a NUS Business student](https://blog.ryo-wijaya.me/transfer), leaving me a bunch of stuff to catch up on when I finally transferred courses. This led to me unfortunately not having any prior development experiences besides what I had learned in school, essentially meaning that I was going in blind. I applied for the Backend Software Engineering Intern role.
+Reluvate Technologies was a company that I applied to for a 3-month internship, right after my 2nd year at university ended. I actually spent half of my first year as a NUS Business student, leaving me a bunch of stuff to catch up on when I finally transferred courses. This led to me unfortunately not having any prior development experiences besides what I had learned in school, essentially meaning that I was going in blind. I applied for the Backend Software Engineering Intern role.
 
 ## About Reluvate Technologies
 
