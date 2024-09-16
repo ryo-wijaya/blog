@@ -6,12 +6,6 @@ This blog runs on Jekyll, Liquid templates for layouts, and GitHub Actions and P
 
 ### Posts
 
-- Create a new post (using jekyll compose)
-
-  ```shell
-  bundle exec jekyll post "My New Post"
-  ```
-
 - Create a new post with template Front Matter (using custom python script)
 
   ```shell
