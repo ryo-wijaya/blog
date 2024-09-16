@@ -17,12 +17,12 @@ timezone: Asia/Singapore
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Ryo's Space # the main title
+title: Ryo Wijaya # the main title
 
-tagline: This site will be used to keep track of my software engineering journey, helping to ensure that things learned are not forgotten by my goldfish memory
+tagline: This site will be used to keep track of my software engineering journey (and some other stuff), helping to ensure that things learned are not forgotten by my goldfish memory
 
 description: >- # used by seo meta and the atom feed
-  This site will be used to keep track of my software engineering journey, helping to ensure that things learned are not forgotten by my goldfish memory
+  Ryo Wijaya's personal software engineering (and some other stuff) blog.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
