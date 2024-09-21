@@ -4,7 +4,7 @@ title: My First Post!
 description: >-
   I finally decided to start some sort of blog where I can document what I’ve learned along my software engineering journey.
 author: ryo
-categories: [Admin]
+categories: [Others]
 tags: [first-post]
 image:
   path: assets/img/admin/eevee-face-2.jpg
