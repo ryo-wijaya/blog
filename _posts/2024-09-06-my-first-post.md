@@ -21,7 +21,7 @@ toc: true
 
 ## My Engineering Space
 
-Over time, I realized the need for a dedicated space where I could consolidate the technical knowledge I've gained throughout my software engineering journey. Having a central hub for my personal technical documentation will be useful in helping me reflect on my growth and also serve as a practical resource to revisit key concepts.
+Over time, I realized the need for a dedicated space where I could consolidate the technical knowledge I've gained throughout my software engineering journey. Having a central hub for my personal technical documentation will be useful in helping me reflect on my growth, serve as a practical resource to revisit key concepts, and improve my technical writing skills.
 
 This blog runs on Jekyll, Liquid templates for layouts, and GitHub Actions and Pages for deployment and hosting. It utilizes the open-source **Chirpy Jekyll Theme**.
 
