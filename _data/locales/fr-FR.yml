@@ -24,6 +24,7 @@ search:
 
 panel:
   lastmod: Récemment mis à jour
+  popular_categories: "Popular Categories"
   trending_tags: Tags tendance
   toc: Contenu
 

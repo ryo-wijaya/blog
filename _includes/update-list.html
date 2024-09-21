@@ -38,3 +38,33 @@
 </section>
 <!-- #access-lastmod -->
 {% endif %}
+
+<!-- Get 5 most popular categories -->
+{% assign categories_list = '' | split: '' %}
+
+{% for category in site.categories %}
+{% assign posts_of_category = category[1] %}
+{% assign count = posts_of_category | size %}
+
+{% if count > 0 %}
+{% capture elem %}
+{{- count | prepend: "0000" | slice: -5, 5 -}}::{{ category[0] }}
+{% endcapture %}
+{% assign categories_list = categories_list | push: elem %}
+{% endif %}
+{% endfor %}
+
+{% assign categories_list = categories_list | sort | reverse %}
+
+<section id="popular-categories">
+  <h2 class="panel-heading">{{- site.data.locales[include.lang].panel.popular_categories -}}</h2>
+  <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
+    {% for category in categories_list limit: 5 %}
+    {% assign name = category | split: '::' | last %}
+    {% assign count = category | split: '::' | first %}
+    <li class="text-truncate lh-lg">
+      <a href="{{ site.baseurl }}/content/{{ name | slugify }}">{{ name | capitalize }} ({{ count | plus: 0 }})</a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
