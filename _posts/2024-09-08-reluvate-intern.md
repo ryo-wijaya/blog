@@ -37,7 +37,7 @@ As this was a 3 month summer internship, I ended up working on 3 core projects, 
 
 ### 1. Automated Hiring Portal
 
-As my first proper software engineering project, I was clueless on how to do even the simple stuff, such as managing secrets or dealing with dependency and environment issues. Big thanks to the CEO, who hopped on many calls with me (often at super late hours) to mentor me through the basics of engineering as well as how to approach problems in a systematical way :blush:. Their live hiring portal can be found [here](https://umeume-ffd05.web.app/).
+As my first proper software engineering project, I was clueless on how to do even the simple stuff, such as managing secrets or dealing with dependency and environment issues. Big thanks to the CEO, who hopped on many calls with me (often at super late hours) to mentor me through the basics of engineering as well as how to approach problems in a systematical way :blush:. Their live hiring portal can be found <a href="https://umeume-ffd05.web.app/" target="_blank">here</a>.
 
 - **Description**: This is an end-to-end automated hiring web platform to manage recruitment, interviews, technical assessments, and document exchange.
 - **My Role**: 90% backend development, 10% frontend development.
