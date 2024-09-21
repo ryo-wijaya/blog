@@ -25,6 +25,7 @@ description: >-
 author: ryo
 date: {date}
 categories: [Category1, Category2]
+tags: [tag1, tag2]
 image:
   path: assets/img/<slug>/<file>
   alt: A description of the image

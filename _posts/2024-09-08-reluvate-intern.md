@@ -6,6 +6,7 @@ description: >-
 author: ryo
 date: 2024-09-08 11:18:47 +0800
 categories: [Internship]
+tags: [internship]
 image:
   path: assets/img/internship/reluvate-logo.jpg
   alt: Reluvate Technologies Logo

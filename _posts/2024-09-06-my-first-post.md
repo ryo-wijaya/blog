@@ -5,6 +5,7 @@ description: >-
   I finally decided to start some sort of blog where I can document what I’ve learned along my software engineering journey.
 author: ryo
 categories: [Admin]
+tags: [first-post]
 image:
   path: assets/img/admin/eevee-face-2.jpg
   alt: Eevee face
