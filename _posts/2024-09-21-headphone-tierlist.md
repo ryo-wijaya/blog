@@ -59,7 +59,7 @@ This post helps me keep track of all the headphones I've sampled. Maybe I'll end
 
 ---
 
-#### Headphones I've tried but forgot how they sound 🤡
+#### Headphones I've tried but forgotten how they sound 🤡
 
 | Type     | Headphone         |
 | -------- | ----------------- |
