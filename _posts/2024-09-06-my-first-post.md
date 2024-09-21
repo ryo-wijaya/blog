@@ -7,10 +7,10 @@ author: ryo
 categories: [Others]
 tags: [first-post]
 image:
-  path: assets/img/admin/eevee-face-2.jpg
+  path: assets/img/others/eevee-face-2.jpg
   alt: Eevee face
 override_image:
-  path: assets/img/admin/first-post-resized.jpg
+  path: assets/img/others/first-post-resized.jpg
   alt: My dog Eevee chilling in a field
 show_image_in_post: true
 date: 2024-09-06 20:25:00 +0800

@@ -8,7 +8,7 @@ Welcome to my engineering space! I’m Ryo Wijaya, a software engineer passionat
 
 Outside of work, I'm an amateur electric guitar :guitar:, keyboard :musical_keyboard:, and drums 🥁 player, as well as a hobbyist composer :computer:. I collect and have an addiction to open-back over-ear headphones :headphones:, and I also have a cute doggo :dog:.
 
-![My Cute Doggo](assets/img/admin/eevee-combined.png){: width="100%" }
+![My Cute Doggo](assets/img/others/eevee-combined.png){: width="100%" }
 _My Cute Doggo_
 
 ## Current Journey

@@ -7,7 +7,10 @@ author: ryo
 date: 2024-09-21 20:49:22 +0800
 categories: [Others]
 tags: [headphones]
-show_image_in_post: false
+image:
+  path: assets/img/others/headphones.png
+  alt: My Headphones
+show_image_in_post: true
 toc: true
 comments: true
 pin: false
