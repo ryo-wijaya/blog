@@ -25,14 +25,6 @@ tail_includes:
         {% include datetime.html date=page.date tooltip=true lang=lang %}
       </span>
 
-      <!-- lastmod date -->
-      {% if page.last_modified_at and page.last_modified_at != page.date %}
-      <span>
-        {{ site.data.locales[lang].post.updated }}
-        {% include datetime.html date=page.last_modified_at tooltip=true lang=lang %}
-      </span>
-      {% endif %}
-
       {% if page.override_image and page.show_image_in_post != false %}
       <!-- Inside post, use override_image -->
       {% capture src %}src="{{ page.override_image.path | default: page.override_image.path }}"{% endcapture %}
@@ -44,7 +36,7 @@ tail_includes:
         <figcaption class="text-center pt-2 pb-2">{{ page.override_image.alt }}</figcaption>
         {%- endif -%}
       </div>
-    {% elsif page.image and page.show_image_in_post != false %}
+      {% elsif page.image and page.show_image_in_post != false %}
       <!-- Default behavior: Use image if override_image is not present -->
       {% capture src %}src="{{ page.image.path | default: page.image.path }}"{% endcapture %}
       {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
@@ -55,7 +47,7 @@ tail_includes:
         <figcaption class="text-center pt-2 pb-2">{{ page.image.alt }}</figcaption>
         {%- endif -%}
       </div>
-    {% endif %}    
+      {% endif %}
 
       <div class="d-flex justify-content-between">
         <!-- author(s) -->
