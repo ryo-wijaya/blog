@@ -21,6 +21,11 @@ published: true
 
 I like music (of almost all genres). Hence, over time I've developed a liking for one of the mediums of music, headphones :slightly_smiling_face:. Some people call this sickness being an audiophile. I prefer open-back headphones, and most open-back headphones tend to be wired and over-ear. I run most of my headphones through the iFi Zen Air CAN headphone amplifier, or through the Qudelix 5K if I'm mobile.
 
+I like planar magnetic headphones over dynamic. I prefer headphones that are mostly flat but slightly warm, meaning a slight boost from 200-500kHz. I also prefer a slight dip around 1.5-2kHz, which help to reduce the harshness a bit and emphasize the lower mids. Other than that I prefer my treble flat. Anything too much around 3-4kHz and 8-9kHz is annoying to me (I really hate the DT770 Pro). If a pair of headphones deviate too much from this, I use parametric EQs to fix it, such as Peace Equalizer APO on PC or the Qudelix 5K on mobile.
+
+![Preferred Frequency Response](assets/img/others/fr.png){: width="100%" }
+_Preferred Frequency Response_
+
 This post helps me keep track of all the headphones I've sampled. Maybe I'll end up writing some headphone reviews in the future too, who knows.
 
 #### Headphones I've tried
@@ -32,7 +37,7 @@ This post helps me keep track of all the headphones I've sampled. Maybe I'll end
 | 3    | Over-ear      | HIFIMAN Edition XS           | Owned       |
 | 4    | Over-ear      | HIFIMAN Deva Pro             | Owned       |
 | 5    | Over-ear      | Sennheiser HD6XX/650         | Owned       |
-| 6    | Over-ear      | Sennheiser HD600             | Owned       |
+| 6    | Over-ear      | Sennheiser HD600             | Tried       |
 | 7    | Over-ear      | HIFIMAN HE400se              | Used to Own |
 | 8    | Over-ear      | Sennheiser HD 560s           | Used to Own |
 | 9    | On-ear        | Koss KPH40x                  | Owned       |
