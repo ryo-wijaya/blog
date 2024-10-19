@@ -2,9 +2,9 @@
 layout: post
 title: "My SWE Internship Experience @ Reluvate"
 description: >-
-  A brief overview of my software engineering internship at Reluvate Technologies that I undertook during the summer at the end of my second year of university (May 2022). Unfortunately, I'm writing this a little over 2 years too late so my memory might not be all there.
+  A brief overview of my software engineering internship at Reluvate Technologies that I undertook during the summer at the end of my second year of university (May 2022).
 author: ryo
-date: 2024-09-08 11:18:47 +0800
+date: 2022-09-08 11:18:47 +0800
 categories: [Internship]
 tags: [internship]
 image:

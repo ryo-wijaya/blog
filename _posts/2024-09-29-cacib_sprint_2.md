@@ -27,7 +27,7 @@ published: true
   - Task & requirements gathering meetings from the BA for an internal project: a JSON <-> Avro conversion tool to be used by BAs in Singapore and Paris.
 
 - **Tasks:**
-  - Setting up the local development environment.
+  - Setting up of local development environment.
   - Documenting team conventions, software installation guide, and new joiner checklist on Confluence.
   - Self-study on Avro, Java Spring Boot, and functional financing documentation.
   - MVP 1 for the JSON-Avro tool (JSON to Avro conversion).
