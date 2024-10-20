@@ -13,7 +13,7 @@ override_image:
   path: assets/img/others/first-post-resized.jpg
   alt: My dog Eevee chilling in a field
 show_image_in_post: true
-date: 2024-09-06 20:25:00 +0800
+date: 2024-08-06 20:25:00 +0800
 pin: true
 published: true
 comments: true

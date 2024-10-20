@@ -4,7 +4,7 @@ title: "Sprint 3 @ Crédit Agricole CIB"
 description: >-
   Sprint recap [26/08/2024 - 9/09/2024]. Working on the JSON-Avro tool's frontend and backend.
 author: ryo
-date: 2024-10-06 17:58:20 +0800
+date: 2024-09-10 17:58:20 +0800
 categories: [Crédit Agricole, Sprints]
 tags: [sprint]
 image:
@@ -17,21 +17,31 @@ pin: false
 published: true
 ---
 
+### Jira Tickets
+
+1. **MVP 1 of the JSON-Avro tool (JSON to Avro conversion)**
+  - Spillover from last sprint.
+
+2. **MVP 2 of the JSON-Avro tool (Avro to JSON conversion)**
+  - Involves reversing the data conversions performed in the first MVP. 
+
+3. **MVP 3 of the JSON-Avro tool (Thymeleaf UI)**
+  - Spring MVC controllers for the tool and a Thymeleaf UI (server-side rendering).
+
+
 ### Main Activities
 
-- **Merge Request (MVP 1)**: Submitted my first merge request for the JSON-Avro conversion tool.
-  - Reading/writing JSON and Avro files.
-  - Iterating over JSON files and Avro schemas with Jackson and building intermediary JSONs, performing certain data conversions including date, decimal, and nesting namespace and type specifications.
-  - Fixed MR comments regarding code quality.
-- **MVP 2 Work**: Started working on the Avro-to-JSON conversion.
 - **SonarQube Integration**: Integrated SonarQube into the project and addressed code smells.
-- **UI Development**: Developed the Thymeleaf UI for the JSON-Avro tool and created a merge request. The tool was dockerized and hosted on Kubernetes by a company architect.
+- **MVP 2 Work**: Started working on the Avro-to-JSON conversion.
+- **MVP 3 Work**: Developed the Thymeleaf UI for the JSON-Avro tool. The tool was dockerized and hosted on Kubernetes by a company architect.
+- **Merge Request (MVP 1, 2 and 3)**: Documented and created merge requests for the JSON-Avro conversion tool.
+  - Fixed MR comments regarding code quality.
 - **Support**: Provided user support for the JSON-Avro conversion tool.
 - **Demo**: Demo-ed the JSON-Avro conversion tool to internal stakeholders in Singapore and Paris as part of the Sprint demo.
 
 ---
 
-### Key Challenges
+### Key Challenges/Blockers
 
 - **Unfamiliar Technology**: Worked with Thymeleaf & Spring Web MVC for the first time, which took some ramp-up.
 - **JSON Un-nesting Complexity**: Dealing with un-nesting JSON nodes during the Avro-to-JSON conversion was more challenging than expected.
