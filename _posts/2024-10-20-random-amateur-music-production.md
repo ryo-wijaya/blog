@@ -8,8 +8,8 @@ date: 2024-10-20 00:52:17 +0800
 categories: [Others, Music]
 tags: [music-production]
 image:
-  path: assets/img/others/jcole.png
-  alt: Jcole doing his thing
+  path: assets/img/others/panda.jpg
+  alt: Panda doing his thing
 show_image_in_post: false
 toc: true
 comments: true
@@ -54,7 +54,7 @@ My first time messing around with Reaper and guitar plugins, which explains the 
 
 ### Song 2: 后天爱上你
 
-Made with pretty much only an electric guitar, but at this point I've been experimenting with random audio plugins and effects. Singing/Lyrics credits: <a href="https://www.instagram.com/soda.lyrics/" target="_blank">Ee Leng</a>
+Made with pretty much only an electric guitar, but at this point I've been experimenting with random audio plugins and effects. Singing/Lyrics credits: <a href="https://www.instagram.com/soda.lyrics/" target="_blank">Ee Leng</a>.
 
 **With Guitar Lead Tone**
 {% include embed/audio.html src='/assets/media/music/后天爱上你-lead.mp3' title='后天爱上你-lead' %}
@@ -68,7 +68,7 @@ Made with pretty much only an electric guitar, but at this point I've been exper
 
 ### Song 3: 3 Button Face
 
-This song is about how my naughty my dog is :rage:, lyrics by me and my sister, <a href="https://www.instagram.com/soda.lyrics/" target="_blank">Ee Leng</a> helped me to proof-read my terrible chinese as well as sing the song. Fun fact: It's called 3 Button Face because my dog has 3 buttons on her face (eyes and snout). Singing credits: <a href="https://www.instagram.com/soda.lyrics/" target="_blank">Ee Leng</a>
+This song is about how my naughty my dog is :rage:, lyrics by me and my sister, Ee Leng helped me to proof-read my terrible chinese as well as sing the song. Fun fact: It's called 3 Button Face because my dog has 3 buttons on her face (eyes and snout). Singing credits: <a href="https://www.instagram.com/soda.lyrics/" target="_blank">Ee Leng</a>.
 
 **With Guitar Lead Tone**
 {% include embed/audio.html src='/assets/media/music/3buttonface-lead.mp3' title='3buttonface-lead' %}
