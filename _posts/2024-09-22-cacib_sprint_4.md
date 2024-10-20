@@ -27,6 +27,8 @@ published: true
 2. **Unit test coverage for a certain set of Java ETL drivers (in the main project)**
   - More coverage was needed to pass Sonarqube checks.
 
+---
+
 ### Main Activities
 
 - **MVP 4 Work**: Worked on MVP 4 for the JSON-Avro tool, documented it, and created a merge request.

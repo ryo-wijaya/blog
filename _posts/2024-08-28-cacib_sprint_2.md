@@ -28,6 +28,8 @@ published: true
   - **Namespace Specification** - JSON nodes with matching Avro schema type 'Union' must be nested with the full Namespace specification. This is to avoid ambiguity for which field-schema the Avro serialization engine should use for encoding, as 'Union' types can include multiple complex types.
   - **Type Specification** - JSON nodes with matching Avro schema type 'Union' must be provided the fully qualified Type name. This is to avoid ambiguity for which Type the Avro serialization engine should expect within the 'Union', as 'Union' fields can allow multiple Avro Types.
 
+---
+
 ### Main Activities
 
 - **Meetings:**

@@ -28,6 +28,7 @@ published: true
 3. **MVP 3 of the JSON-Avro tool (Thymeleaf UI)**
   - Spring MVC controllers for the tool and a Thymeleaf UI (server-side rendering).
 
+---
 
 ### Main Activities
 

@@ -27,6 +27,8 @@ published: true
   - While Angular project B is older and doesn't implement the bank's in-house UI component library, its functionalities are more in-line with the upcoming UI development task for my team (ETL-monitoring).
   My task is to identify services and components that will be reusable with regards to ETL-monitoring, along with API requests/responses, and models used.
 
+---
+
 ### Main Activities
 
 - **Organizational Meetings**: Company Town Hall, updates on upcoming technologies to be introduced within CACIB in the near future, product presentations to department heads by department architects, etc.

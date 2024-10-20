@@ -24,6 +24,7 @@ published: true
   - The idea is that BAs should be able to upload Excel files, have the sheets validated, uploaded into S3, stored in an archive, and have the data updated in the corresponding tables (for each Excel sheet) in the PostgreSQL database. The data in these tables can contain configurations or parameters, and will be automatically pulled by the system during the running of ETL tasks.
   - Every upload/insert to a location should have an audit trail stored in PostgreSQL.
 
+---
 
 ### Main Activities
 
