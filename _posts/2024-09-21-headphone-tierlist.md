@@ -44,23 +44,24 @@ This post helps me keep track of all the headphones I've sampled. Maybe I'll end
 | 10   | On-ear        | Koss Porta Pros              | Owned       |
 | 11   | On-ear        | Koss KPH30i                  | Owned       |
 | 12   | Over-ear      | AKG K702                     | Used to Own |
-| 13   | Over-ear      | Audio-Technica ATH-AD500x    | Used to Own |
-| 14   | Over-ear      | Sennheiser HD 599SE          | Used to Own |
-| 15   | Over-ear      | Audio-Technica M50xBT2       | Used to Own |
-| 16   | Over-ear      | Audio-Technica M40x          | Used to Own |
-| 17   | Over-ear (BT) | AKG K361BT                   | Used to Own |
-| 18   | Over-ear      | Sennheiser PC38x             | Owned       |
-| 19   | Over-ear      | Philips XHR2                 | Used to Own |
-| 20   | Over-ear      | HIFIMAN Sundara Closed       | Used to Own |
-| 21   | Over-ear      | Meze 99 Classics             | Tried       |
-| 22   | Over-ear      | HIFIMAN HER9                 | Used to Own |
-| 23   | Over-ear      | Beyerdynamic DT770 Pro       | Tried       |
-| 24   | Over-ear      | Epos H3 Open                 | Used to Own |
-| 25   | Over-ear (BT) | Sennheiser Momentum 4        | Tried       |
-| 26   | Over-ear (BT) | Sennheiser Accentum Wireless | Owned       |
-| 27   | Over-ear (BT) | Bose QC35                    | Tried       |
-| 28   | Over-ear (BT) | Sony WH-1000XM5              | Tried       |
-| 29   | Over-ear (BT) | Anker Soundcore Q45          | Tried       |
+| 13   | Over-ear      | Audio-Technica ATH-AD700x    | Used to Own |
+| 14   | Over-ear      | Audio-Technica ATH-AD500x    | Used to Own |
+| 15   | Over-ear      | Sennheiser HD 599SE          | Used to Own |
+| 16   | Over-ear      | Audio-Technica M50xBT2       | Used to Own |
+| 17   | Over-ear      | Audio-Technica M40x          | Used to Own |
+| 18   | Over-ear (BT) | AKG K361BT                   | Used to Own |
+| 19   | Over-ear      | Sennheiser PC38x             | Owned       |
+| 20   | Over-ear      | Philips XHR2                 | Used to Own |
+| 21   | Over-ear      | HIFIMAN Sundara Closed       | Used to Own |
+| 22   | Over-ear      | Meze 99 Classics             | Tried       |
+| 23   | Over-ear      | HIFIMAN HER9                 | Used to Own |
+| 24   | Over-ear      | Beyerdynamic DT770 Pro       | Tried       |
+| 25   | Over-ear      | Epos H3 Open                 | Used to Own |
+| 26   | Over-ear (BT) | Sennheiser Momentum 4        | Tried       |
+| 27   | Over-ear (BT) | Sennheiser Accentum Wireless | Owned       |
+| 28   | Over-ear (BT) | Bose QC35                    | Tried       |
+| 29   | Over-ear (BT) | Sony WH-1000XM5              | Tried       |
+| 30   | Over-ear (BT) | Anker Soundcore Q45          | Tried       |
 
 ---
 
