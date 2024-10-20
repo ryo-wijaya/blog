@@ -34,6 +34,7 @@ published: true
 - **Frontend JavaScript Environment Setup**: Setup of Node & NPM, including company proxy servers and Angular CLI.
 - **Gain Accesses**: Getting dev environment and source code access to both project A and B took a little time.
 - **Worked on UI Analysis and Documentation**: For both project A and B on confluence.
+- **Demos**: Demo-ed the Configuration Upload Utility Tool from last sprint (sprint 5) twice, one to BAs, and one to the entire team as part of the sprint demo.
 
 ---
 

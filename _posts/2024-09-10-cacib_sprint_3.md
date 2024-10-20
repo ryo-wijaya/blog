@@ -37,7 +37,7 @@ published: true
 - **Merge Request (MVP 1, 2 and 3)**: Documented and created merge requests for the JSON-Avro conversion tool.
   - Fixed MR comments regarding code quality.
 - **Support**: Provided user support for the JSON-Avro conversion tool.
-- **Demo**: Demo-ed the JSON-Avro conversion tool to internal stakeholders in Singapore and Paris as part of the Sprint demo.
+- **Demo**: Demo-ed the JSON-Avro conversion tool to internal stakeholders in Singapore and Paris as part of the sprint demo.
 
 ---
 
