@@ -53,13 +53,13 @@ This post helps me keep track of all the headphones I've sampled. Maybe I'll end
 | 19   | Over-ear      | Philips XHR2                 | Used to Own |
 | 20   | Over-ear      | HIFIMAN Sundara Closed       | Used to Own |
 | 21   | Over-ear      | Meze 99 Classics             | Tried       |
-| 22   | Over-ear      | HIFIMAN HER9                 | Owned       |
+| 22   | Over-ear      | HIFIMAN HER9                 | Used to Own |
 | 23   | Over-ear      | Beyerdynamic DT770 Pro       | Tried       |
 | 24   | Over-ear      | Epos H3 Open                 | Used to Own |
-| 25   | Over-ear      | Bose QC35                    | Tried       |
-| 26   | Over-ear (BT) | Sennheiser Momentum 4        | Tried       |
-| 27   | Over-ear (BT) | Sony WH-1000XM5              | Tried       |
-| 28   | Over-ear (BT) | Sennheiser Accentum Wireless | Tried       |
+| 25   | Over-ear (BT) | Sennheiser Momentum 4        | Tried       |
+| 26   | Over-ear (BT) | Sennheiser Accentum Wireless | Owned       |
+| 27   | Over-ear (BT) | Bose QC35                    | Tried       |
+| 28   | Over-ear (BT) | Sony WH-1000XM5              | Tried       |
 | 29   | Over-ear (BT) | Anker Soundcore Q45          | Tried       |
 
 ---

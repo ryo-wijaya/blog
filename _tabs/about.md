@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-Welcome to my engineering space! I’m Ryo Wijaya, a software engineer passionate about building efficient solutions and exploring new technologies. I believe that being a good developer doesn't necessarily mean knowing everything, but rather knowing what to search for, how to ask the right questions, and being passionate about the work.
+Welcome to my engineering space! I’m Ryo Wijaya, a software engineer who likes engineering software :open_mouth:. I believe that being a good developer doesn't necessarily mean knowing everything, but rather knowing what to search for, how to ask the right questions, and being passionate about the work.
 
 Outside of work, I'm an amateur electric guitar :guitar:, keyboard :musical_keyboard:, and drums 🥁 player, as well as a hobbyist composer :computer:. I collect and have an addiction to open-back over-ear headphones :headphones:, and I also have a cute doggo :dog:.
 
