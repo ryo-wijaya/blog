@@ -2,7 +2,7 @@
 layout: post
 title: "Sprint 3 @ Crédit Agricole CIB"
 description: >-
-  [26/08/2024 - 9/09/2024]. Working on the JSON-Avro tool's frontend and backend.
+  Sprint recap [26/08/2024 - 9/09/2024]. Working on the JSON-Avro tool's frontend and backend.
 author: ryo
 date: 2024-10-06 17:58:20 +0800
 categories: [Crédit Agricole, Sprints]
