@@ -3,13 +3,13 @@
 {% assign types = include.types | default: '' | strip | split: '|' %}
 
 {% unless src contains '://' %}
-  {%- capture src -%}
-    {% include media-url.html src=src subpath=page.media_subpath %}
-  {%- endcapture -%}
+{%- capture src -%}
+{% include media-url.html src=src subpath=page.media_subpath %}
+{%- endcapture -%}
 {% endunless %}
 
 <p>
-  <audio class="embed-audio" controls>
+  <audio class="embed-audio" controls preload="auto">
     {% assign extension = src | split: '.' | last %}
     {% assign types = extension | concat: types %}
 
@@ -20,16 +20,16 @@
     {% assign filepath = src | slice: 0, slice_size %}
 
     {% for type in types %}
-      {% assign src = filepath | append: type %}
-      {% assign media_item = site.data.media | find: 'extension', type %}
-      {% assign mime_type = media_item.mime_type | default: type %}
-      <source src="{{ src }}" type="audio/{{ mime_type }}">
+    {% assign src = filepath | append: type %}
+    {% assign media_item = site.data.media | find: 'extension', type %}
+    {% assign mime_type = media_item.mime_type | default: type %}
+    <source src="{{ src }}" type="audio/{{ mime_type }}">
     {% endfor %}
 
     Your browser does not support the audio tag. Here is a
     <a href="{{ src | strip }}">link to the audio file</a> instead.
   </audio>
   {% if title %}
-    <em>{{ title }}</em>
+  <em>{{ title }}</em>
   {% endif %}
 </p>
