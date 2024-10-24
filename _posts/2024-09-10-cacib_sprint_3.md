@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sprint 3 @ Crédit Agricole CIB"
+title: "Sprint 3 @ CACIB - JSON-Avro Tool (1)"
 description: >-
   Sprint recap [26/08/2024 - 9/09/2024]. Working on the JSON-Avro tool's frontend and backend.
 author: ryo

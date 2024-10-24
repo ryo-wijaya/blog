@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sprint 2 @ Crédit Agricole CIB"
+title: "Sprint 2 @ CACIB - Onboarding"
 description: >-
   Sprint recap [12/08/2024 - 26/08/2024]. My first sprint in the team. Onboarding, orientations, and self-learning.
 author: ryo

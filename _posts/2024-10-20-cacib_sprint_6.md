@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sprint 6 @ Crédit Agricole CIB"
+title: "Sprint 6 @ CACIB - UI Analysis"
 description: >-
   Sprint recap [07/10/2024 - 21/10/2024]. Working on UI analysis of other Angular projects in the bank, in preparation for UI development.
 author: ryo
