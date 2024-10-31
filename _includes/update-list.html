@@ -63,8 +63,7 @@
     {% assign name = category | split: '::' | last %}
     {% assign count = category | split: '::' | first %}
     <li class="text-truncate lh-lg">
-      <a href="{{ site.baseurl }}/content/{{ name | slugify }}" class="text-muted">{{ name | capitalize | replace: "-",
-        " " | capitalize }} ({{ count | plus: 0 }})</a>
+      <a href="{{ site.baseurl }}/content/{{ name | slugify | replace: '%C3%A9', 'é' }}" class="text-muted">{{ name | capitalize | replace: "-", " " | capitalize }} ({{ count | plus: 0 }})</a>
     </li>
     {% endfor %}
   </ul>
