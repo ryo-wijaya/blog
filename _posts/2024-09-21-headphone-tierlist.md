@@ -60,7 +60,7 @@ This post helps me keep track of all the headphones I've sampled. Maybe I'll end
 | 26   | Closed-Back    | Beyerdynamic DT770 Pro       | Tried       |
 | 27   | Closed-Back    | Epos H3 Open                 | Used to Own |
 | 28   | Bluetooth      | Sennheiser Momentum 4        | Tried       |
-| 29   | Bluetooth      | Sennheiser Accentum Wireless | Owned       |
+| 29   | Bluetooth      | Sennheiser Accentum Wireless | Used to Own |
 | 30   | Bluetooth      | Bose QC35                    | Tried       |
 | 31   | Bluetooth      | Sony WH-1000XM5              | Tried       |
 | 32   | Bluetooth      | Anker Soundcore Q45          | Tried       |
