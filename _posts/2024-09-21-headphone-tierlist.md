@@ -30,61 +30,78 @@ This post helps me keep track of all the headphones I've sampled. Maybe I'll end
 
 #### Headphones I've tried
 
-| Rank | Type          | Headphone                    | Status      |
-| ---- | ------------- | ---------------------------- | ----------- |
-| 1    | Over-ear      | Sennheiser HD800s            | Want to Buy |
-| 2    | Over-ear      | HIFIMAN Arya Organic         | Want to Buy |
-| 3    | Over-ear      | HIFIMAN Edition XS           | Owned       |
-| 4    | Over-ear      | HIFIMAN Deva Pro             | Owned       |
-| 5    | Over-ear      | Sennheiser HD6XX/650         | Owned       |
-| 6    | Over-ear      | Sennheiser HD600             | Tried       |
-| 7    | Over-ear      | HIFIMAN HE400se              | Used to Own |
-| 8    | Over-ear      | Sennheiser HD 560s           | Used to Own |
-| 9    | On-ear        | Koss KPH40x                  | Owned       |
-| 10   | On-ear        | Koss Porta Pros              | Owned       |
-| 11   | On-ear        | Koss KPH30i                  | Owned       |
-| 12   | Over-ear      | AKG K702                     | Used to Own |
-| 13   | Over-ear      | Audio-Technica ATH-AD700x    | Used to Own |
-| 14   | Over-ear      | Audio-Technica ATH-AD500x    | Used to Own |
-| 15   | Over-ear      | Sennheiser HD 599SE          | Used to Own |
-| 16   | Over-ear      | Audio-Technica M50xBT2       | Used to Own |
-| 17   | Over-ear      | Audio-Technica M40x          | Used to Own |
-| 18   | Over-ear (BT) | AKG K361BT                   | Used to Own |
-| 19   | Over-ear      | Sennheiser PC38x             | Owned       |
-| 20   | Over-ear      | Philips XHR2                 | Used to Own |
-| 21   | Over-ear      | HIFIMAN Sundara Closed       | Used to Own |
-| 22   | Over-ear      | Meze 99 Classics             | Tried       |
-| 23   | Over-ear      | HIFIMAN HER9                 | Used to Own |
-| 24   | Over-ear      | Beyerdynamic DT770 Pro       | Tried       |
-| 25   | Over-ear      | Epos H3 Open                 | Used to Own |
-| 26   | Over-ear (BT) | Sennheiser Momentum 4        | Tried       |
-| 27   | Over-ear (BT) | Sennheiser Accentum Wireless | Owned       |
-| 28   | Over-ear (BT) | Bose QC35                    | Tried       |
-| 29   | Over-ear (BT) | Sony WH-1000XM5              | Tried       |
-| 30   | Over-ear (BT) | Anker Soundcore Q45          | Tried       |
+| Rank | Type           | Headphone                    | Status      |
+| ---- | -------------- | ---------------------------- | ----------- |
+| 1    | Open-Back      | Sennheiser HD800s            | Want to Buy |
+| 2    | Open-Back      | HIFIMAN Arya Organic         | Want to Buy |
+| 3    | Open-Back      | HIFIMAN Edition XS           | Owned       |
+| 4    | Closed-Back    | Focal Elegia                 | Owned       |
+| 5    | Open-Back      | HIFIMAN Deva Pro             | Owned       |
+| 6    | Open-Back      | Sennheiser HD6XX/650         | Owned       |
+| 7    | Open-Back      | Sennheiser HD600             | Tried       |
+| 8    | Open-Back      | HIFIMAN HE400se              | Used to Own |
+| 9    | Open-Back      | Sennheiser HD 560s           | Used to Own |
+| 10   | On-Ears        | Koss KPH40x                  | Owned       |
+| 11   | On-Ears        | Koss Porta Pros              | Owned       |
+| 12   | On-Ears        | Koss KPH30i                  | Owned       |
+| 13   | Open-Back      | AKG K702                     | Used to Own |
+| 14   | Open-Back      | Audio-Technica ATH-AD700x    | Used to Own |
+| 15   | Open-Back      | Audio-Technica ATH-AD500x    | Used to Own |
+| 16   | Open-Back      | Sennheiser HD 599SE          | Used to Own |
+| 17   | Bluetooth      | Audio-Technica M50xBT2       | Used to Own |
+| 18   | Closed-Back    | Audio-Technica M40x          | Used to Own |
+| 19   | Bluetooth      | AKG K361BT                   | Used to Own |
+| 20   | Bluetooth      | Dyson Zone                   | Owned       |
+| 21   | Open-Back      | Sennheiser PC38x             | Owned       |
+| 22   | Open-Back      | Philips XHR2                 | Used to Own |
+| 23   | Closed-Back    | HIFIMAN Sundara Closed       | Used to Own |
+| 24   | Closed-Back    | Meze 99 Classics             | Tried       |
+| 25   | Closed-Back    | HIFIMAN HER9                 | Used to Own |
+| 26   | Closed-Back    | Beyerdynamic DT770 Pro       | Tried       |
+| 27   | Closed-Back    | Epos H3 Open                 | Used to Own |
+| 28   | Bluetooth      | Sennheiser Momentum 4        | Tried       |
+| 29   | Bluetooth      | Sennheiser Accentum Wireless | Owned       |
+| 30   | Bluetooth      | Bose QC35                    | Tried       |
+| 31   | Bluetooth      | Sony WH-1000XM5              | Tried       |
+| 32   | Bluetooth      | Anker Soundcore Q45          | Tried       |
+
+
 
 ---
 
 #### Headphones I've tried but forgotten how they sound 🤡
 
-| Type     | Headphone         |
-| -------- | ----------------- |
-| Over-ear | HIFIMAN Sundara   |
-| Over-ear | HIFIMAN Ananda    |
-| Over-ear | Sennheiser HD660s |
-| Over-ear | Sennheiser HD620s |
+| Type        | Headphone         |
+| ----------- | ----------------- |
+| Open-Back   | HIFIMAN Sundara   |
+| Open-Back   | HIFIMAN Ananda    |
+| Open-Back   | Sennheiser HD660s |
+| Closed-Back | Sennheiser HD620s |
 
 ---
 
 #### Headphones I want to try
 
-| Type               | Headphone                         |
-| ------------------ | --------------------------------- |
-| Over-ear           | HIFIMAN HE1000 V2                 |
-| Over-ear           | HIFIMAN HE5XX                     |
-| Over-ear           | HIFIMAN Susvara                   |
-| Over-ear           | Audio Technica AD1000             |
-| Over-ear           | Audio Technica AD2000             |
-| Over-ear           | Audio Technica AD5000             |
-| Over-ear           | Audio Technica R70X               |
-| Over-ear (electro) | Any Stax Electrostatic Headphones |
+| Type           | Headphone                         |
+| -------------- | --------------------------------- |
+| Open-Back      | HIFIMAN HE1000 V2                 |
+| Open-Back      | HIFIMAN HE5XX                     |
+| Open-Back      | HIFIMAN Susvara                   |
+| Open-Back      | Audio-Technica AD1000             |
+| Open-Back      | Audio-Technica AD2000             |
+| Open-Back      | Audio-Technica AD5000             |
+| Open-Back      | Audio-Technica R70X               |
+| Electrostatic  | Any Stax Electrostatic Headphones |
+| Bluetooth      | Focal Bathys                      |
+| Open-Back      | Focal Utopia                      |
+| Closed-Back    | Focal Stellia                     |
+| Open-Back      | Focal Clear MG                    |
+| Closed-Back    | Focal Celestee                    |
+| Closed-Back    | Sony MDR-Z1R                      |
+| Open-Back      | Audeze LCD-X                      |
+| Open-Back      | Audeze LCD-2 Classic              |
+| Closed-Back    | E-MU Teak                         |
+| Open-Back      | AKG K712 Pro                      |
+| Open-Back      | ZMF Verite                        |
+| Open-Back      | ZMF Auteur                        |
+
