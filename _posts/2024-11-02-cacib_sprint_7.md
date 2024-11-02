@@ -49,6 +49,7 @@ published: true
 
 - **Familiarity with Angular 18**: Gained a little more understanding about the newer Angular changes.
 - **Familiarity with CI/CD**: Gained a little more understanding about how deployment works in general (from CI/CD to Docker image repository to Kubernetes cluster), as well as the concept of image-tagging. Its definitely something I still have to research more on and document properly (for personal notes).
-- **Familiarity with Authentication**: Read up a decent amount on how OAuth2 is supposed to work and how I can implement it. This also needs more research.
+- **Familiarity with Authentication**: Gained some idea of how OpenID Connect is supposed to work and how I can implement it. This also needs more research.
+
 ---
 
