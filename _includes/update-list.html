@@ -48,7 +48,7 @@
 
 {% if count > 0 %}
 {% capture elem %}
-{{- count | prepend: "0000" | slice: -5, 5 -}}::{{ category[0] | capitalize | replace: "-", " " | capitalize }}
+{{- count | prepend: "0000" | slice: -5, 5 -}}::{{ category[0] | replace: "-", " " }}
 {% endcapture %}
 {% assign categories_list = categories_list | push: elem %}
 {% endif %}
@@ -63,7 +63,8 @@
     {% assign name = category | split: '::' | last %}
     {% assign count = category | split: '::' | first %}
     <li class="text-truncate lh-lg">
-      <a href="{{ site.baseurl }}/content/{{ name | slugify | relative_url }}" class="text-muted">{{ name | capitalize | replace: "-", " " | capitalize }} ({{ count | plus: 0 }})</a>
+      <a href="{{ site.baseurl }}/content/{{ name | slugify | relative_url }}" class="text-muted">{{ name }} ({{ count |
+        plus: 0 }})</a>
     </li>
     {% endfor %}
   </ul>
