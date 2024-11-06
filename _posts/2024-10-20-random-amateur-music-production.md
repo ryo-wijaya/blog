@@ -40,7 +40,7 @@ The idea actually came from a colleague in my team during my internship at SP Gr
 
 ### Song 1: 悲剧信徒
 
-My first time messing around with Reaper and guitar plugins, which explains the repetitive tracks, but hey at least it was saved by the fantastic lyrics and singing by <a href="https://www.instagram.com/soda.lyrics/" target="_blank">Neo Ee Leng</a> :sunglasses::+1:. I learned that even free drum plugins can sounds pretty good somehow.
+My first time messing around with Reaper and guitar plugins. Lyrics and singing by <a href="https://www.instagram.com/soda.lyrics/" target="_blank">Neo Ee Leng</a>. I learned that even free drum plugins can sounds pretty good somehow.
 
 **With Guitar Lead Tone**
 {% include embed/audio.html src='/assets/media/music/悲剧信徒-lead.mp3' title='悲剧信徒-lead' %}
@@ -68,7 +68,7 @@ Made with pretty much only an electric guitar, but at this point I've been exper
 
 ### Song 3: 3 Button Face
 
-This song is about how my naughty my dog is :rage:, lyrics by me and my sister, Ee Leng helped me to proof-read my terrible chinese as well as sing the song. Fun fact: It's called 3 Button Face because my dog has 3 buttons on her face (eyes and snout). Singing credits: <a href="https://www.instagram.com/soda.lyrics/" target="_blank">Ee Leng</a>.
+This song is about how my naughty my dog is :rage:. Fun fact: It's called 3 Button Face because my dog has 3 buttons on her face (eyes and snout). Singing credits: <a href="https://www.instagram.com/soda.lyrics/" target="_blank">Ee Leng</a>.
 
 **With Guitar Lead Tone**
 {% include embed/audio.html src='/assets/media/music/3buttonface-lead.mp3' title='3buttonface-lead' %}
@@ -82,7 +82,7 @@ This song is about how my naughty my dog is :rage:, lyrics by me and my sister, 
 
 ### Song 4: Jellyfish
 
-The idea was that its supposed to have some sort of SpongeBob-esque beachy and coconutty feel 🤡. This one has no lyrics or singing sadly, so it's just gonna be the guitar lead tone.
+The idea was that its supposed to have some sort of chill SpongeBob-like vibe 🤡. This one has no lyrics or singing sadly, so it's just gonna be the guitar lead tone.
 
 {% include embed/youtube.html id='JPUBdV_BBOM' %}
 

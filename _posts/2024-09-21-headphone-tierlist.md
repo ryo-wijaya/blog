@@ -26,7 +26,7 @@ I like planar magnetic headphones over dynamic. I prefer headphones that are mos
 ![Preferred Frequency Response](assets/img/others/fr.png){: width="100%" }
 _Preferred Frequency Response_
 
-This post helps me keep track of all the headphones I've sampled. Maybe I'll end up writing some headphone reviews in the future too, who knows.
+This post helps me keep track of all the headphones I've sampled.
 
 #### Headphones I've tried
 
