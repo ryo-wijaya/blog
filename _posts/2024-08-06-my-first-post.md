@@ -28,7 +28,7 @@ This blog runs on Jekyll, Liquid templates for layouts, and GitHub Actions and P
 
 ## Content
 
-By documenting the following insights, I hope this blog becomes a valuable resource for both myself and others :)
+By documenting the following insights, I hope this blog becomes a valuable resource for myself to look back on.
 
 #### 1. Engineering Journal
 
