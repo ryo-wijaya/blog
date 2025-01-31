@@ -19,9 +19,14 @@ published: true
 
 ## Why Headphones
 
-I like music (of almost all genres). Hence, over time I've developed a liking for one of the mediums of music, headphones :slightly_smiling_face:. Some people call this sickness being an audiophile. I prefer open-back headphones, and most open-back headphones tend to be wired and over-ear. I run most of my headphones through the iFi Zen Air CAN headphone amplifier, or through the Qudelix 5K if I'm mobile.
+I like music (of almost all genres). Hence, over time I've developed a liking for one of the mediums of music, headphones :slightly_smiling_face:. Some people call this sickness being an audiophile. I prefer open-back headphones, and most open-back headphones tend to be wired and over-ear. I run most of my headphones through the iFi Zen Air CAN headphone amplifier, or through the Qudelix 5K if I'm mobile. For EQ I use parametric EQs such as Peace Equalizer APO on PC or the Qudelix 5K on mobile.
 
-I like planar magnetic headphones over dynamic. I prefer headphones that are mostly flat but slightly warm, meaning a slight boost from 200-500kHz. I also prefer a slight dip around 1.5-2kHz, which help to reduce the harshness a bit and emphasize the lower mids. Other than that I prefer my treble flat. Anything too much around 3-4kHz and 8-9kHz is annoying to me (I really hate the DT770 Pro). If a pair of headphones deviate too much from this, I use parametric EQs to fix it, such as Peace Equalizer APO on PC or the Qudelix 5K on mobile.
+Preference:
+* Planar magnetic headphones over dynamic driver headphones
+* Mostly flat frequency response, slightly warm or dark is ok, but not the other way round
+* Low mid boost (200-500Hz) is good
+* Slight dip or slight peak at 1.5-2kHz is fine, both sound different and good to me
+* Peak at 3-4kHz or 6-8kHz is bad
 
 ![Preferred Frequency Response](assets/img/others/fr.png){: width="100%" }
 _Preferred Frequency Response_
@@ -30,41 +35,46 @@ This post helps me keep track of all the headphones I've sampled.
 
 #### Headphones I've tried
 
-| Rank | Type           | Headphone                    | Status      |
+| Rank | Type           | Headphone                     | Status      |
 | ---- | -------------- | ---------------------------- | ----------- |
-| 1    | Open-Back      | Sennheiser HD800s            | Want to Buy |
-| 2    | Open-Back      | HIFIMAN Arya Organic         | Want to Buy |
-| 3    | Open-Back      | HIFIMAN Edition XS           | Owned       |
-| 4    | Closed-Back    | Focal Elegia                 | Owned       |
-| 5    | Open-Back      | HIFIMAN Deva Pro             | Owned       |
-| 6    | Open-Back      | Sennheiser HD6XX/650         | Owned       |
-| 7    | Open-Back      | Sennheiser HD600             | Tried       |
-| 8    | Open-Back      | HIFIMAN HE400se              | Used to Own |
-| 9    | Open-Back      | Sennheiser HD 560s           | Used to Own |
-| 10   | On-Ears        | Koss KPH40x                  | Owned       |
-| 11   | On-Ears        | Koss Porta Pros              | Owned       |
-| 12   | On-Ears        | Koss KPH30i                  | Owned       |
-| 13   | Open-Back      | AKG K702                     | Used to Own |
-| 14   | Open-Back      | Audio-Technica ATH-AD700x    | Used to Own |
-| 15   | Open-Back      | Audio-Technica ATH-AD500x    | Used to Own |
-| 16   | Open-Back      | Sennheiser HD 599SE          | Used to Own |
-| 17   | Bluetooth      | Audio-Technica M50xBT2       | Used to Own |
-| 18   | Closed-Back    | Audio-Technica M40x          | Used to Own |
-| 19   | Bluetooth      | AKG K361BT                   | Used to Own |
-| 20   | Bluetooth      | Dyson Zone                   | Owned       |
-| 21   | Open-Back      | Sennheiser PC38x             | Owned       |
+| 1    | Open-Back      | HIFIMAN Arya Organic         | Want to Buy |
+| 2    | Open-Back      | Sennheiser HD800s            | Want to Buy |
+| 3    | Open-Back      | Focal Elex                   | Owned       |
+| 4    | Open-Back      | HIFIMAN Edition XS           | Owned       |
+| 5    | Closed-Back    | Focal Elegia                 | Owned       |
+| 6    | Open-Back      | HIFIMAN Deva Pro             | Owned       |
+| 7    | Open-Back      | Sennheiser HD6XX/650         | Owned       |
+| 8    | Open-Back      | Sennheiser HD600             | Tried       |
+| 9    | IEM            | Fiio FT1                     | Owned       |
+| 10   | Open-Back      | HIFIMAN HE400se              | Used to Own |
+| 11   | Open-Back      | Sennheiser HD 560s           | Used to Own |
+| 12   | On-Ears        | Koss KPH40x                  | Owned       |
+| 13   | IEM            | Letshuoer S12 Pro            | Owned       |
+| 14   | On-Ears        | Koss Porta Pros              | Owned       |
+| 15   | On-Ears        | Koss KPH30i                  | Owned       |
+| 16   | Open-Back      | AKG K702                     | Used to Own |
+| 17   | Open-Back      | Audio-Technica ATH-AD700x    | Used to Own |
+| 18   | Open-Back      | Audio-Technica ATH-AD500x    | Used to Own |
+| 19   | Closed-Back    | Monolith M1070C              | Used to Own |
+| 20   | Open-Back      | Sennheiser HD 599SE          | Used to Own |
+| 21   | Open-Back      | Sennheiser PC38X             | Owned       |
 | 22   | Open-Back      | Philips XHR2                 | Used to Own |
 | 23   | Closed-Back    | HIFIMAN Sundara Closed       | Used to Own |
 | 24   | Closed-Back    | Meze 99 Classics             | Tried       |
 | 25   | Closed-Back    | HIFIMAN HER9                 | Used to Own |
 | 26   | Closed-Back    | Beyerdynamic DT770 Pro       | Tried       |
 | 27   | Closed-Back    | Epos H3 Open                 | Used to Own |
-| 28   | Bluetooth      | Sennheiser Momentum 4        | Tried       |
-| 29   | Bluetooth      | Sennheiser Accentum Wireless | Used to Own |
-| 30   | Bluetooth      | Bose QC35                    | Tried       |
-| 31   | Bluetooth      | Sony WH-1000XM5              | Tried       |
-| 32   | Bluetooth      | Anker Soundcore Q45          | Tried       |
-
+| 28   | IEM            | Galaxy Buds Pro 2            | Owned       |
+| 29   | IEM            | AirPods Pro 2                | Used to Own |
+| 30   | Bluetooth      | Sennheiser Momentum 4        | Owned       |
+| 31   | IEM            | Tangzu Wan’er                | Owned       |
+| 32   | IEM            | Moondrop Chu II              | Owned       |
+| 33   | IEM            | Moondrop Space Travel        | Owned       |
+| 34   | Bluetooth      | Sennheiser Accentum Wireless | Used to Own |
+| 35   | IEM            | Galaxy Buds 2                | Owned       |
+| 36   | Bluetooth      | Bose QC35                    | Tried       |
+| 37   | Bluetooth      | Sony WH-1000XM5              | Tried       |
+| 38   | Bluetooth      | Anker Soundcore Q45          | Tried       |
 
 
 ---
