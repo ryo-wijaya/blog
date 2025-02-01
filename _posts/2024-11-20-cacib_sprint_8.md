@@ -32,7 +32,7 @@ published: true
 - **Create Common GitLab CI Files**: Create CI files abstracting out the stages build, test, version, sonar scan, publish jar, build docker, deploy to dev, and other stages to a common parent location for both Java and Angular. The current GitLab CI/CD file hierarchy is: Base CI file (common tags, tools, images) >> Tech Stack specific CI file >> Project CI file.
 - **Test and Validate each Project's Pipeline**: Version tag the common GitLab files and refactor each project's CI file to extend from the parent CI files, skipping any stage that is not necessary for that project. Each project's CI file can also pass in project specific variables to the parent file.
 - **CI/CD Gap Analysis**: Go through the design document for the expected CI/CD flow and note the differences for each project's CI/CD pipeline between the expected flow and the actual flow. For example, some stages should not trigger for some branches, some stages should be manual but it is not, some stages are missing, some stages happen in the wrong order, etc.
-- **Validate OpenIDC Credentials for the Company's IDP**: In the previous sprint I started the onboarding process for SSO in the new UI project. The onboarding for our dev environment was completed this sprint, hence I tested the credentials through the SSO flow, simulated from browser to postman to a python script decoding the JWT. I got back to the IDP team so they can validate the logs and documented the testing process.
+- **Validate OpenIDC Credentials from the Company's IDP for DEV**: In the previous sprint I started the onboarding process for SSO in the new UI project. The onboarding for our dev environment was completed this sprint, hence I tested the credentials through the SSO flow, simulated from browser to postman to a python script decoding the JWT. I got back to the IDP team so they can validate the logs and documented the testing process.
 - **Spark Training**: Attended the first session of company-wide Apache Spark training.
 - **Demo Was Cancelled**
 
@@ -42,6 +42,7 @@ published: true
 
 - **Unfamiliarity with current project's CI**: I wasn't familiar with some of the tools and steps in the current pipeline for a couple of the projects, so I had to spend some time studying them first.
 - **Unfamiliarity with GitLab CI**: I wasn't familiar with GitLab CI in general, and had to spend some time studying the template syntax as well as some of the keywords.
+
 ---
 
 ### Learning Outcomes
