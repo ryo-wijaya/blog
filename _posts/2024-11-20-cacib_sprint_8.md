@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sprint 8 @ CACIB - Angular UI Setup"
+title: "Sprint 8 @ CACIB - GitLab CI/CD"
 description: >-
   Sprint recap [04/11/2024 - 18/11/2024]. Mostly working on helping to refine the team's GitLab CI/CD pipelines.
 author: ryo
