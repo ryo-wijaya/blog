@@ -20,10 +20,10 @@ published: true
 ### Jira Tickets
 
 1. **Migrate Tool's Logic to Backend Repo**
-  - The current functions of the tools, namely excel column header validation, S3 bucket upload, PostgreSQL table upload, is currently called by Spring controllers to populate the Thymeleaf UI model. All of these should be moved to a new service that would be in charge of the project's backend functions, and the Controllers are to be converted to REST Controllers.
+  - The current functions of the tools, namely excel column header validation, S3 bucket upload, PostgreSQL table upload, are called by Spring Controllers to populate the Thymeleaf UI model. All of these should be moved to a new service that would be in charge of the project's backend functions, and the Controllers are to be converted to REST Controllers.
 
 2. **Design and Implement new Configurable Functional Validations**
-  - Turns out there has been new functional requirements introduced for this tool. New validations to be added include Mandatory (for cells in a column), Uniqueness (for cells in a column), and Composite Uniqueness (for cells both in a column and across multiple columns).
+  - Turns out there are new functional requirements introduced for this tool. New validations to be added include Mandatory (for cells in a column), Uniqueness (for cells in a column), and Composite Uniqueness (for cells both in a column and across multiple columns).
 
 ---
 

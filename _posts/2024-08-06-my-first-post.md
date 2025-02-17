@@ -11,7 +11,7 @@ image:
   alt: Eevee face
 override_image:
   path: assets/img/others/first-post-resized.jpg
-  alt: My dog Eevee chilling in a field
+  alt: My cute doggo Eevee
 show_image_in_post: true
 date: 2024-08-06 20:25:00 +0800
 pin: true
