@@ -17,13 +17,12 @@ pin: false
 published: true
 ---
 
-## Why Headphones
+## Headphones & IEMs
 
-I like music (of almost all genres). Hence, over time I've developed a liking for one of the mediums of music, headphones :slightly_smiling_face:. Some people call this sickness being an audiophile. I prefer open-back headphones, and most open-back headphones tend to be wired and over-ear. I run most of my headphones through the iFi Zen Air CAN headphone amplifier, or through the Qudelix 5K if I'm mobile. For EQ I use parametric EQs such as Peace Equalizer APO on PC or the Qudelix 5K on mobile.
+I prefer open-back headphones, and most open-back headphones tend to be wired and over-ear. I run most of my headphones through the iFi Zen Air CAN headphone amplifier, or through the Qudelix 5K if I'm mobile. For EQ I use parametric EQs such as Peace Equalizer APO on PC or the Qudelix 5K on mobile.
 
 Preference:
 
-- Planar magnetic headphones over dynamic driver headphones
 - Mostly flat frequency response, slightly warm or dark is ok, but not the other way round
 - Low mid boost (200-500Hz) is good
 - Slight dip or slight peak at 1.5-2kHz is fine, both sound different and good to me

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sprint 5 @ CACIB - Configuration Utility Tool"
+title: "Sprint 5 @ CACIB - Configuration Upload Tool"
 description: >-
   Sprint recap [23/09/2024 - 07/10/2024]. Started working on frontend and backend components for another internal tool.
 author: ryo
