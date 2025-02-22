@@ -32,8 +32,8 @@ published: true
 - **Code Migration**: Moved and refactored code meant to be used in the MVC pattern (with Thymeleaf) to another backend service repository, converting Spring Controllers to REST Controllers. 
 - **Setup Deployment for new Backend Project**: Ensure the RESTful web service for the new backend project is up and available to access on Kubernetes pods.
 - **Integrate Old Frontend with new Backend**: Ensure that the old Thymeleaf frontend can call REST APIs from the new backend without issues.
+- **New Validation Classes**: Implemented Java classes for Excel data validation (mandatory, uniqueness, composite-uniqueness). These validations are designed to be configured via a PostgreSQL DB. The tool should allow for the conditional validation of data from Excel without code development, only database configurations. The data will finally be populated into S3 and selected PostgreSQL tables, which is already configured via database configurations.
 - **Fell Sick**
-- **Unit Tests**: From 0% (due to no previous requirement for unit testing internal utility tools) to 80%+.
 - **Demo**: To team.
 
 ---
@@ -41,7 +41,6 @@ published: true
 ### Key Challenges/Blockers
 
 - **Lots of Refactoring**: Since the project started as a Spring Web MVC project with Thymeleaf, Excel sheet data was encapsulated in a data transfer class and passed around by setting attributes in the model. Unfortunately, since backend logic is to be moved to a separate service, this design has to be changed. This is because `org.apache.poi.ss.usermodel`, the Java library used for manipulating Excel sheet data, contains classes that are not serializable.
-- **Wrestling with Unit Tests**: JUnit testing makes me want to end myself.
 
 ---
 
