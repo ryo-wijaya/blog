@@ -14,7 +14,7 @@ override_image:
   alt: My cute doggo Eevee
 show_image_in_post: true
 date: 2024-08-06 20:25:00 +0800
-pin: true
+pin: false
 published: true
 comments: true
 toc: true

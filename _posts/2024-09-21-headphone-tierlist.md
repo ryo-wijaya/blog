@@ -13,7 +13,7 @@ image:
 show_image_in_post: true
 toc: true
 comments: true
-pin: false
+pin: true
 published: true
 ---
 
@@ -46,7 +46,7 @@ This post helps me keep track of all the headphones I've sampled.
 | 7    | Closed-Back | Focal Celeste                | Used to Own |
 | 8    | Open-Back   | Sennheiser HD6XX/650         | Owned       |
 | 9    | Open-Back   | Sennheiser HD600             | Tried       |
-| 10   | IEM         | Fiio FT1                     | Owned       |
+| 10   | Closed-Back | Fiio FT1                     | Owned       |
 | 11   | Open-Back   | HIFIMAN HE400se              | Used to Own |
 | 12   | Open-Back   | Sennheiser HD 560s           | Used to Own |
 | 13   | On-Ears     | Koss KPH40x                  | Owned       |
