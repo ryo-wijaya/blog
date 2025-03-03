@@ -23,7 +23,7 @@ published: true
   - The current functions of the tools, namely excel column header validation, S3 bucket upload, PostgreSQL table upload, are called by Spring Controllers to populate the Thymeleaf UI model. All of these should be moved to a new service that would be in charge of the project's backend functions, and the Controllers are to be converted to REST Controllers.
 
 2. **Design and Implement new Configurable Functional Validations**
-  - Turns out there are new functional requirements introduced for this tool. New validations to be added include Mandatory (for cells in a column), Uniqueness (for cells in a column), and Composite Uniqueness (for cells both in a column and across multiple columns).
+  - Turns out there are new functional requirements introduced for this tool. New validations to be added include 1. Mandatory Validation (control/validate that cells in a specific column must not be empty), 2. Uniqueness Validation (control/validate that cell data in a specific column must be unique), and 2. Composite Uniqueness Validation (control/validate that cell data in a specific column must be unique as a composite combination of data in other columns as well).
 
 ---
 
@@ -32,7 +32,9 @@ published: true
 - **Code Migration**: Moved and refactored code meant to be used in the MVC pattern (with Thymeleaf) to another backend service repository, converting Spring Controllers to REST Controllers. 
 - **Setup Deployment for new Backend Project**: Ensure the RESTful web service for the new backend project is up and available to access on Kubernetes pods.
 - **Integrate Old Frontend with new Backend**: Ensure that the old Thymeleaf frontend can call REST APIs from the new backend without issues.
-- **New Validation Classes**: Implemented Java classes for Excel data validation (mandatory, uniqueness, composite-uniqueness). These validations are designed to be configured via a PostgreSQL DB. The tool should allow for the conditional validation of data from Excel without code development, only database configurations. The data will finally be populated into S3 and selected PostgreSQL tables, which is already configured via database configurations.
+- **Excel Sheet Validation Design**: These validations are designed to be configured via a PostgreSQL DB. The tool should allow for the conditional validation of data from Excel without code development, only database configurations. The data will finally be populated into S3 and selected PostgreSQL tables, which is also already configured via database configurations.
+- **New Validator Class - Mandatory**: Validation configured separately in a database with a boolean column. Excel columns configured to be mandatory cannot have empty cells, otherwise the sheet validation will fail.
+- **New Validator Class - Uniqueness**: Validation configured separately in a database with a comma-separates list of IDs. As every column in a sheet must be registered in the database, each has an ID. E.g. An Excel column with ID 3 configured with the uniqueness validation '3' (itself), the column must have cell values unique within itself. If the same column were to be configured with the uniqueness validation '3,4,5', the column must have cell values unique within itself and the other configured columns (like a composite key).
 - **Fell Sick**
 - **Demo**: To team.
 

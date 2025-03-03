@@ -23,20 +23,21 @@ published: true
   - Sonarqube code quality fixes and unit tests.
 
 2. **New Consistency Validator**
-  - Configured separately with a comma-separated list of strings. Excel columns configured with this validation can only have row data containing one of these list values, otherwise the sheet validation will fail.
+  - The requirement is to control/validate the exact values present in each Excel sheet column's data before upload.
 
 3. **New Regex Validator**
-  - Configured separately with a regex pattern. Excel columns configured with this validation can only have row data that matches the configured regex pattern, otherwise the sheet validation will fail.
+  - The requirement is to control/validate the exact values present in each Excel sheet column's data before upload.
 
 ---
 
 ### Main Activities
 
-- **New Validator Class - Consistency**
-- **New Validator Class - Regex**
+- **New Validator Class - Consistency**: Validation configured separately in a database with a comma-separated list of strings. E.g. Excel columns configured with the consistency validation 'abc,123,xyz' can only have row data containing one of these list values, otherwise the sheet validation will fail.
+- **New Validator Class - Regex**: Validation configured separately in a database with a regex pattern. Excel columns configured with this validation can only have row data that matches the configured regex pattern, otherwise the sheet validation will fail.
 - **New Liquibase Changesets**: For functional database tables related to my tickets.
 - **Code Quality Fixes**: As the project must now be scanned by Sonarqube, bugs, vulnerabilities, and code coverage must be brought up to standard.
 - **Unit Tests**: From 0% (due to no previous requirement for unit testing internal utility tools).
+- **Demo**: To team.
 
 ---
 
