@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sprint 9 @ CACIB - Configuration Upload Tool 2"
+title: "Sprint 9 @ CACIB - Configuration Upload Tool (2)"
 description: >-
   Sprint recap [18/11/2024 - 02/12/2024]. Migration of the upload tool's logic and implementation of new validations.
 author: ryo

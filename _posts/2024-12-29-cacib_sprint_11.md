@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sprint 11 @ CACIB - Implementing SSO & Configuration Upload Tool 4"
+title: "Sprint 11 @ CACIB - Implementing SSO & Configuration Upload Tool (4)"
 description: >-
   Sprint recap [16/12/2024 - 30/12/2024]. Implemented OAuth2 based SSO (OpenID Connect), as well as new validations for the configuration upload tool.
 author: ryo

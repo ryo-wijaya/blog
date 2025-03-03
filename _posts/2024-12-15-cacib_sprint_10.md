@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sprint 10 @ CACIB - Configuration Upload Tool 3"
+title: "Sprint 10 @ CACIB - Configuration Upload Tool (3)"
 description: >-
   Sprint recap [02/12/2024 - 16/12/2024]. Code quality fixes, unit tests, and the implementation of more validation classes for the tool.
 author: ryo
