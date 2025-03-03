@@ -46,7 +46,7 @@ published: true
 
 ### Learning Outcomes
 
-- **Overall Familiarity with Java Development**: Refactored code to use Lombok annotations, follow standard principles (logging, proper Spring DI), and other good Java coding practices. E.g. I didn't know that (Spring Constructor Injection should always be used over Field Injection)[https://medium.com/@anil.java.story/why-spring-constructor-injection-is-the-recommended-approach-75edca1f9b36]. This 1. Ensures dependencies are final and immutable and 2. prevents the risk of `null` dependencies (as injection always takes place after the class/bean is initialized). 
+- **Overall Familiarity with Java Development**: Refactored code to use Lombok annotations, follow standard principles (logging, proper Spring DI), and other good Java coding practices. E.g. I didn't know that [Spring Constructor Injection should always be used over Field Injection](https://medium.com/@anil.java.story/why-spring-constructor-injection-is-the-recommended-approach-75edca1f9b36). This 1. Ensures dependencies are final and immutable and 2. prevents the risk of `null` dependencies (as injection always takes place after the class/bean is initialized). 
 - **Familiarity with OAuth2.0 Authorization Code Flow**: Understanding the implementation of each step in the flow.
 
 | *    | From    | To      | Description |
