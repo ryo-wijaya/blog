@@ -5,7 +5,7 @@ description: >-
   Sprint recap [07/10/2024 - 21/10/2024]. Working on UI analysis of other Angular projects in the bank, in preparation for UI development.
 author: ryo
 date: 2024-10-20 20:00:20 +0800
-categories: [Crédit Agricole, Sprints]
+categories: [Credit Agricole, Sprints]
 tags: [sprint]
 image:
   path: assets/img/cacib/cacib-logo-2-modified.png

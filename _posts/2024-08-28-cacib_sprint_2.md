@@ -5,7 +5,7 @@ description: >-
   Sprint recap [12/08/2024 - 26/08/2024]. My first sprint in the team. Onboarding, orientations, and self-learning.
 author: ryo
 date: 2024-08-29 14:52:23 +0800
-categories: [Crédit Agricole, Sprints]
+categories: [Credit Agricole, Sprints]
 tags: [sprint]
 image:
   path: assets/img/cacib/cacib-logo-2-modified.png

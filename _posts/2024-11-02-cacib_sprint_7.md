@@ -5,7 +5,7 @@ description: >-
   Sprint recap [21/10/2024 - 04/11/2024]. Working on setting up the Angular UI for the team's ETL monitoring product. A sprint cut short by a public holiday and a day off.
 author: ryo
 date: 2024-11-02 16:33:45 +0800
-categories: [Crédit Agricole, Sprints]
+categories: [Credit Agricole, Sprints]
 tags: [sprint]
 image:
   path: assets/img/cacib/cacib-logo-2-modified.png

@@ -5,7 +5,7 @@ description: >-
   Sprint recap [04/11/2024 - 18/11/2024]. Mostly working on helping to refine the team's GitLab CI/CD pipelines.
 author: ryo
 date: 2024-11-20 18:23:35 +0800
-categories: [Crédit Agricole, Sprints]
+categories: [Credit Agricole, Sprints]
 tags: [sprint]
 image:
   path: assets/img/cacib/cacib-logo-2-modified.png

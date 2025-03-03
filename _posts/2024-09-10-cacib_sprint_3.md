@@ -5,7 +5,7 @@ description: >-
   Sprint recap [26/08/2024 - 9/09/2024]. Working on the JSON-Avro tool's frontend and backend.
 author: ryo
 date: 2024-09-10 17:58:20 +0800
-categories: [Crédit Agricole, Sprints]
+categories: [Credit Agricole, Sprints]
 tags: [sprint]
 image:
   path: assets/img/cacib/cacib-logo-2-modified.png

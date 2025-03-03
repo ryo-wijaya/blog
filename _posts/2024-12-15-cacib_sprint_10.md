@@ -5,7 +5,7 @@ description: >-
   Sprint recap [02/12/2024 - 16/12/2024]. Code quality fixes, unit tests, and the implementation of more validation classes for the tool.
 author: ryo
 date: 2024-12-16 02:20:31 +0800
-categories: [Crédit Agricole, Sprints]
+categories: [Credit Agricole, Sprints]
 tags: [sprint]
 image:
   path: assets/img/cacib/cacib-logo-2-modified.png
@@ -45,6 +45,7 @@ published: true
 - **Wrestling with Sonarqube**: Spent some time fixing code smells and vulnerabilities. 
 - **Wrestling with Unit Tests**: JUnit testing makes me want to end myself.
 - **Wrestling with Liquibase**: First time using Liquibase as a database migration tool, and I ran into checksum validation problems and some other issues.
+
 ---
 
 ### Learning Outcomes

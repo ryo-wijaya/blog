@@ -5,7 +5,7 @@ description: >-
   Sprint recap [18/11/2024 - 02/12/2024]. Migration of the upload tool's logic and implementation of new validations.
 author: ryo
 date: 2024-12-01 13:33:36 +0800
-categories: [Crédit Agricole, Sprints]
+categories: [Credit Agricole, Sprints]
 tags: [sprint]
 image:
   path: assets/img/cacib/cacib-logo-2-modified.png

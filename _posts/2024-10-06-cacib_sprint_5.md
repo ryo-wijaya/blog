@@ -5,7 +5,7 @@ description: >-
   Sprint recap [23/09/2024 - 07/10/2024]. Started working on frontend and backend components for another internal tool.
 author: ryo
 date: 2024-10-06 12:25:34 +0800
-categories: [Crédit Agricole, Sprints]
+categories: [Credit Agricole, Sprints]
 tags: [sprint]
 image:
   path: assets/img/cacib/cacib-logo-2-modified.png
