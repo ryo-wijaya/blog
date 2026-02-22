@@ -20,5 +20,3 @@ I recently graduated from the <a href="https://www.linkedin.com/school/national-
     <i class="fas fa-file-pdf"></i> View My Resume
   </a>
 </div>
-
-This site is where I document my journey, share insights, and reflect on lessons along the way, helping to ensure that things learned are not forgotten by my goldfish memory :tropical_fish:.
