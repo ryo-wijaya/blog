@@ -14,6 +14,8 @@ This blog runs on Jekyll, Liquid templates for layouts, and GitHub Actions and P
 
 ### Development
 
+You need ruby with bundler, node, and python would help.
+
 - Start a local server
 
   ```shell

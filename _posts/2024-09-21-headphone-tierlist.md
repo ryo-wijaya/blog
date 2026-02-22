@@ -2,7 +2,7 @@
 layout: post
 title: "Headphone Tier List"
 description: >-
-  My personal headphones tierlist
+  My personal headphones tier list.
 author: ryo
 date: 2024-09-21 20:49:22 +0800
 categories: [Others, Music]
