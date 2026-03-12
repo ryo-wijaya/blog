@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTTP & Web Fundamentals"
+title: "HTTP & REST Fundamentals"
 description: >-
   HTTP Concepts Cheatsheet: methods, status codes, headers, caching, CORS, URL encoding, and REST API design conventions.
 author: ryo

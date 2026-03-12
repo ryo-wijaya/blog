@@ -13,7 +13,7 @@ image:
 show_image_in_post: false
 toc: true
 comments: true
-pin: true
+pin: false
 published: true
 ---
 
