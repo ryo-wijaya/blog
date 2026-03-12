@@ -15,7 +15,7 @@ published: true
 
 ## Overview
 
-HTTP (HyperText Transfer Protocol) is a stateless request-response protocol. A client sends a request, a server responds. Most of the web runs on this.
+HTTP (HyperText Transfer Protocol) is a stateless request-response protocol. A client sends a request, a server responds. Most of the web runs on this. It is defined by the IETF through RFC documents, e.g. HTTP/2 is [RFC 9113](https://www.rfc-editor.org/rfc/rfc9113).
 
 There are three versions in use today:
 - **HTTP/1.1** handles one request at a time per connection. Most older or simpler servers use this.
@@ -34,7 +34,7 @@ There are three versions in use today:
 | **PUT** | Replace an entire resource | Yes |
 | **PATCH** | Partially update a resource | Yes |
 | **DELETE** | Remove a resource | No |
-| **OPTIONS** | Describe allowed communication options (used in CORS preflight) | No |
+| **OPTIONS** | Describe allowed options | No |
 
 ### PUT vs PATCH
 
