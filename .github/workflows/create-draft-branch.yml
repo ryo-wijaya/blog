@@ -1,0 +1,21 @@
+name: "Create Draft Branch"
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  create-draft-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 0
+
+      - name: Create draft branch from master
+        run: |
+          git checkout -B draft
+          git push origin draft --force
