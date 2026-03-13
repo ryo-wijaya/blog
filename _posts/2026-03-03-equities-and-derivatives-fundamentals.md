@@ -2,7 +2,7 @@
 layout: post
 title: "Equities & Derivatives Fundamentals"
 description: >-
-  Reference on how the equity derivatives markets work. Covers stocks, exchanges, market makers, options, futures, forwards, swaps, and the macro factors that move markets.
+  Reference on how the markets work. Covers stocks, exchanges, market makers, options, futures, forwards, swaps, and the macro factors that move markets.
 author: ryo
 date: 2026-03-03 21:03:45 +0800
 categories: [Finance]
