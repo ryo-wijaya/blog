@@ -87,7 +87,7 @@ The main types are options, futures, forwards, and swaps. And for us retail inve
 
 ---
 
-## Options
+### Options
 
 An option gives the buyer the **right, but not the obligation**, to buy or sell an asset at a set price (called the strike price) before or on an expiration date. The buyer pays a premium for this right (also called a contract). The seller collects the premium but takes on the obligation to fulfill the contract if exercised.
 
@@ -103,7 +103,7 @@ Some terms worth knowing:
 
 ---
 
-## Futures
+### Futures
 
 A futures contract is a standardized agreement to buy or sell an asset at a set price on a future date. Unlike options, both parties are **obligated** to fulfill the contract.
 
@@ -117,13 +117,13 @@ Common futures markets include equity indices (S&P 500, NASDAQ), fixed income (U
 
 ---
 
-## Forwards
+### Forwards
 
 A forward is basically a futures contract that isn't exchange-traded. It's a private OTC agreement between two parties on custom terms. Mostly used by corporations for FX and commodity hedging.
 
 ---
 
-## Swaps
+### Swaps
 
 A swap is an OTC agreement to exchange cash flows over time. The most common type is an interest rate swap, where two parties exchange fixed and floating interest payments on a notional amount without actually exchanging the principal. Companies use this to manage their debt exposure, like converting variable rate debt into fixed rate to avoid surprises if rates rise. Credit default swaps (like in the Big Short movie) are insurance on debt, where the buyer pays a periodic premium and the seller pays out if there's a default.
 
