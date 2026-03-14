@@ -164,10 +164,10 @@ These usually bank on selling options to collect premium repeatedly, not buying.
 
 *For example, Nvidia is $180. You think the price is good, but can be even better. You sell a put at strike $175 for $300, making sure you have the money in your account to buy 100 units should the price actually drops to $175. If Nvidia drops to $170 in a week, you are forced to buy it at $175. Considering that you were willing to pay $180 for the stock anyways, $175 is not a bad deal. If Nvidia stays above $175, the contract expires and you are released from your obligation. Either way, you keep the $300 free-of-charge as well.*
 
-<a id="the-wheel"></a>
+<span id="the-wheel"></span>
 **The Wheel** - combining both CCs and CSPs. Sell cash-secured puts until you get assigned shares. Then sell covered calls on those shares until they get called away. Repeat. In a sideways or slowly rising market, this generates consistent income. The real risk is if the stock drops significantly while you're holding the shares. If you follow the rule of only selling CSPs on stocks you are fine with owning at the strike, this is a **less risky way of playing in the stock market**, as your premium cushions your cash outflows, and you might not even get assigned your shares (or you might get shares called away right before they dump). This strategy overall will cap your upside, making it one of the most risk-averse ways of investing in my opinion.
 
-<a id="pmcc-poor-mans-covered-call"></a>
+<span id="pmcc-poor-mans-covered-call"></span>
 **PMCC (Poor Man's Covered Call)** - instead of owning 100 shares, you buy a deep ITM long-dated call (a LEAPS) that acts as a cheaper proxy for the shares, then sell short-dated calls against it. Same concept as a covered call but with less capital tied up. This requires margin most of the time and needs careful handling and if possible, proper order management to ensure that you don't get into a bad position.
 
 **Best expiry to sell options** - when selling premium (CCs, CSPs, spreads), the 21-45 DTE (days to expiration) window is generally considered optimal. This is because theta decay accelerates as you approach expiration, meaning you collect the most time value relative to the risk taken in this window. Going shorter (under 21 DTE) means faster decay but also higher gamma risk, where small stock moves cause big swings in the option price. Most sellers close early at 50% profit rather than holding to expiration, which locks in gains and frees up capital for the next trade.
@@ -187,7 +187,7 @@ Instead of buying or selling a naked option, you combine two options to cap both
 
 **Iron Butterfly** - similar to a condor but the short strikes are at the same price (usually ATM). Higher premium collected but a narrower profitable range.
 
-For a deeper look at each of these strategies, see [A Deep Dive into Option Trading Strategies](/posts/a-deep-dive-into-option-trading-strategies).
+For a deeper look at each of these strategies, see [A Deep Dive into Option Trading Strategies](/posts/finance/a-deep-dive-into-option-trading-strategies/).
 
 ---
 
