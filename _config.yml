@@ -19,10 +19,10 @@ timezone: Asia/Singapore
 
 title: Ryo Wijaya # the main title
 
-tagline: This site will be used to keep track of my software engineering journey (as well as some other stuff).
+tagline: This site will be used to keep track of my software engineering and personal finance journey.
 
 description: >- # used by seo meta and the atom feed
-  Ryo Wijaya's personal software engineering (and some other stuff) blog.
+  Ryo Wijaya's personal software engineering and personal finance blog.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
