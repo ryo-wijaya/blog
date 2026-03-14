@@ -6,7 +6,7 @@ description: >-
 author: ryo
 date: 2026-03-03 21:03:45 +0800
 categories: [Finance]
-tags: [finance, stocks, derivatives, markets]
+tags: [finance, stocks, derivatives, markets, options]
 toc: true
 comments: true
 pin: false
@@ -100,6 +100,8 @@ Some terms worth knowing:
 - **OTM (Out of the Money)** - no intrinsic value. The option is purely a bet on future price movement.
 - **American style** - can be exercised any time before expiration. Most equity options work this way.
 - **European style** - can only be exercised at expiration. Most index options work this way.
+
+Option prices are also driven by the **Greeks** (Delta, Theta, Vega, Gamma) — see [A Deep Dive into the Greeks](/posts/finance/a-deep-dive-into-the-greeks/) for a full breakdown. For elaboration into stock options, see [Why Stock Options are Beautiful](/posts/finance/why-stock-options-are-beautiful/).
 
 ---
 
