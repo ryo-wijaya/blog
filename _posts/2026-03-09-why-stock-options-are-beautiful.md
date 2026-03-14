@@ -187,7 +187,7 @@ Instead of buying or selling a naked option, you combine two options to cap both
 
 **Iron Butterfly** - similar to a condor but the short strikes are at the same price (usually ATM). Higher premium collected but a narrower profitable range.
 
-For a deeper look at each of these strategies, see [A Deep Dive into Option Trading Strategies](/posts/finance/a-deep-dive-into-option-trading-strategies/).
+For a deeper look at each of these strategies, see [A Deep Dive into Option Trading Strategies](/).
 
 ---
 
