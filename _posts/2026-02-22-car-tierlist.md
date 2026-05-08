@@ -46,3 +46,4 @@ published: true
 Mazda Miata any generation, but also basically every other car
 
 ![Mazda Miata](/assets/img/miata.avif)
+_Happy Miata_
