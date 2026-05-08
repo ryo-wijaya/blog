@@ -23,20 +23,26 @@ published: true
 | ---- | ---------------------- | -------------------------------- |
 | 1    | SUV (Compact)          | Mazda CX-5 (2023)                |
 | 2    | SUV (Compact)          | Subaru Forester (2024)           |
-| 3    | SUV (Subcompact)       | Honda HR-V (2023)                |
-| 4    | SUV (Subcompact)       | Toyota Yaris Cross Active Hybrid (2021) |
-| 5    | Sedan (Compact)        | Hyundai Avante CN7 (2022)        |
-| 6    | Sedan (Compact)        | Mazda 3 (2017)                   |
-| 7    | SUV (Subcompact)       | Hyundai Kona EV (2022)           |
-| 8    | Hatchback (Subcompact) | Suzuki Swift 4th gen (2020)      |
-| 9    | MPV (Compact)          | BYD e6 (2021)                    |
-| 10   | MPV (Compact)          | Toyota Sienta Hybrid (2017)      |
-| 11   | Crossover MPV (Compact)| Renault Scenic (2010)            |
-| 12   | Hatchback (Compact)    | Toyota Agya (2010)               |
-| 13   | SUV (Subcompact)       | Ssangyong Tivoli (2015)          |
+| 3    | SUV (Compact)          | BMW X2 M Sport (2024)            |
+| 4    | MPV (Compact)          | Toyota Sienta Hybrid (2017)      |
+| 5    | SUV (Subcompact)       | Honda HR-V (2023)                |
+| 6    | Sedan (Compact)        | Hyundai Avante CN7 (2022)        |
+| 7    | Sedan (Compact)        | Mazda 3 (2017)                   |
+| 8    | Hatchback (Compact)    | Volkswagen Golf Mild Hybrid (2020) |
+| 9    | Hatchback (Subcompact) | Suzuki Swift 4th gen (2020)      |
+| 10   | SUV (Subcompact)       | Toyota Yaris Cross Active Hybrid (2021) |
+| 11   | SUV (Subcompact)       | Hyundai Kona EV (2022)           |
+| 12   | MPV (Compact)          | BYD e6 (2021)                    |
+| 13   | Sedan (Compact)        | Honda Grace/City Hybrid (2015)   |
+| 14   | Crossover MPV (Compact)| Renault Scenic (2010)            |
+| 15   | MPV (Large)            | Ssangyong Stavic (2015)          |
+| 16   | Hatchback (Subcompact) | Toyota Agya (2010)               |
+| 17   | SUV (Subcompact)       | Ssangyong Tivoli (2015)          |
 
 ---
 
 #### Cars I want to try
 
-Basically every other car
+Mazda Miata any generation, but also basically every other car
+
+![Mazda Miata](/assets/img/miata.avif)
