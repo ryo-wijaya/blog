@@ -32,12 +32,13 @@ published: true
 | 9    | Hatchback (Subcompact) | Suzuki Swift 4th gen (2020)      |
 | 10   | SUV (Subcompact)       | Toyota Yaris Cross Active Hybrid (2021) |
 | 11   | SUV (Subcompact)       | Hyundai Kona EV (2022)           |
-| 12   | MPV (Compact)          | BYD e6 (2021)                    |
-| 13   | Sedan (Compact)        | Honda Grace/City Hybrid (2015)   |
-| 14   | Crossover MPV (Compact)| Renault Scenic (2010)            |
-| 15   | MPV (Large)            | Ssangyong Stavic (2015)          |
-| 16   | Hatchback (Subcompact) | Toyota Agya (2010)               |
-| 17   | SUV (Subcompact)       | Ssangyong Tivoli (2015)          |
+| 12   | Sedan (Subcompact)     | Toyota Vios E (2021)             |
+| 13   | MPV (Compact)          | BYD e6 (2021)                    |
+| 14   | Sedan (Compact)        | Honda Grace/City Hybrid (2015)   |
+| 15   | Crossover MPV (Compact)| Renault Scenic (2010)            |
+| 16   | MPV (Large)            | Ssangyong Stavic (2015)          |
+| 17   | Hatchback (Subcompact) | Toyota Agya (2010)               |
+| 18   | SUV (Subcompact)       | Ssangyong Tivoli (2015)          |
 
 ---
 
