@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Ryo Wijaya
-  email: mainryo@gmail.com # change to your email address
+  email: contact.ryowijaya@@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://ryo-wijaya.me
@@ -148,7 +148,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+paginate: 15
 
 # The base URL of your site
 baseurl: ""
