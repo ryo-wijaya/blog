@@ -59,7 +59,7 @@
 <section id="popular-categories">
   <h2 class="panel-heading">{{- site.data.locales[include.lang].panel.popular_categories -}}</h2>
   <ul class="content list-unstyled ps-0 pb-1 ms-1 mt-2">
-    {% for category in categories_list limit: 5 %}
+    {% for category in categories_list limit: 10 %}
     {% assign name = category | split: '::' | last %}
     {% assign count = category | split: '::' | first %}
     <li class="text-truncate lh-lg">
