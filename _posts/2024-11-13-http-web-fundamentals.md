@@ -5,7 +5,7 @@ description: >-
   HTTP Concepts Cheatsheet: methods, status codes, headers, caching, CORS, URL encoding, and REST API design conventions.
 author: ryo
 date: 2024-11-13 00:00:00 +0800
-categories: [Web Development]
+categories: [Software Engineering]
 tags: [http, web, rest, api]
 toc: true
 comments: true

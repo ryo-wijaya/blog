@@ -5,7 +5,7 @@ description: >-
   A practical walkthrough of deploying a Spring Boot application to Kubernetes using Helm charts with per-environment values files, orchestrated through a GitLab CI/CD pipeline.
 author: ryo
 date: 2025-07-21 00:49:50 +0800
-categories: [Software Engineering]
+categories: [DevOps & Cloud Native]
 tags: [kubernetes, helm, gitlab, cicd, devops, cheatsheet]
 toc: true
 comments: true
