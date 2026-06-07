@@ -6,7 +6,7 @@ description: >-
 author: ryo
 date: 2025-05-14 00:00:00 +0800
 categories: [DevOps & Cloud Native]
-tags: [kubernetes, ckad, k8s, docker, helm, devops]
+tags: [kubernetes, ckad, cheatsheet, docker, helm, devops]
 toc: true
 comments: true
 pin: false

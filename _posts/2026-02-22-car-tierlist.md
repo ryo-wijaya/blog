@@ -24,11 +24,11 @@ published: true
 | 1    | SUV (Compact)          | Mazda CX-5 (2023)                |
 | 2    | SUV (Compact)          | Subaru Forester (2024)           |
 | 3    | SUV (Compact)          | BMW X2 M Sport (2024)            |
-| 4    | MPV (Compact)          | Toyota Sienta Hybrid (2017)      |
-| 5    | SUV (Subcompact)       | Honda HR-V (2023)                |
-| 6    | Sedan (Compact)        | Hyundai Avante CN7 (2022)        |
-| 7    | Sedan (Compact)        | Mazda 3 (2017)                   |
-| 8    | Hatchback (Compact)    | Volkswagen Golf Mild Hybrid (2020) |
+| 4    | Hatchback (Compact)    | Volkswagen Golf Mk8.5 50th Anniversary (2025) |
+| 5    | MPV (Compact)          | Toyota Sienta Hybrid (2017)      |
+| 6    | SUV (Subcompact)       | Honda HR-V (2023)                |
+| 7    | Sedan (Compact)        | Hyundai Avante CN7 (2022)        |
+| 8    | Sedan (Compact)        | Mazda 3 (2017)                   |
 | 9    | Hatchback (Subcompact) | Suzuki Swift 4th gen (2020)      |
 | 10   | SUV (Subcompact)       | Toyota Yaris Cross Active Hybrid (2021) |
 | 11   | SUV (Subcompact)       | Hyundai Kona EV (2022)           |
