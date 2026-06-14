@@ -5,7 +5,7 @@ description: >-
   Random works.
 author: ryo
 date: 2024-10-20 00:52:17 +0800
-categories: [Others, Music]
+categories: [Music]
 tags: [music-production]
 image:
   path: assets/img/others/panda.jpg
