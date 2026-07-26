@@ -21,24 +21,29 @@ published: true
 
 | Rank | Type                   | Car                              |
 | ---- | ---------------------- | -------------------------------- |
-| 1    | SUV (Compact)          | Mazda CX-5 (2023)                |
-| 2    | SUV (Compact)          | Subaru Forester (2024)           |
-| 3    | SUV (Compact)          | BMW X2 M Sport (2024)            |
-| 4    | Hatchback (Compact)    | Volkswagen Golf Mk8.5 50th Anniversary (2025) |
-| 5    | MPV (Compact)          | Toyota Sienta Hybrid (2017)      |
-| 6    | SUV (Subcompact)       | Honda HR-V (2023)                |
-| 7    | Sedan (Compact)        | Hyundai Avante CN7 (2022)        |
-| 8    | Sedan (Compact)        | Mazda 3 (2017)                   |
-| 9    | Hatchback (Subcompact) | Suzuki Swift 4th gen (2020)      |
-| 10   | SUV (Subcompact)       | Toyota Yaris Cross Active Hybrid (2021) |
-| 11   | SUV (Subcompact)       | Hyundai Kona EV (2022)           |
-| 12   | Sedan (Subcompact)     | Toyota Vios E (2021)             |
-| 13   | MPV (Compact)          | BYD e6 (2021)                    |
-| 14   | Sedan (Compact)        | Honda Grace/City Hybrid (2015)   |
-| 15   | Crossover MPV (Compact)| Renault Scenic (2010)            |
-| 16   | MPV (Large)            | Ssangyong Stavic (2015)          |
-| 17   | Hatchback (Subcompact) | Toyota Agya (2010)               |
-| 18   | SUV (Subcompact)       | Ssangyong Tivoli (2015)          |
+| 1    | SUV (Compact)          | Mazda CX-5                       |
+| 2    | SUV (Compact)          | Subaru Forester                  |
+| 3    | SUV (Compact)          | BMW X2 M Sport                   |
+| 4    | Hatchback (Compact)    | Volkswagen Golf Mk8.5 50th Anniversary |
+| 5    | MPV (Compact)          | Toyota Sienta Hybrid             |
+| 6    | SUV (Subcompact)       | Honda HR-V                       |
+| 7    | Sedan (Compact)        | Hyundai Avante CN7               |
+| 8    | Sedan (Compact)        | Mazda 3                          |
+| 9    | Hatchback (Subcompact) | Suzuki Swift 4th gen             |
+| 10   | Hatchback (Subcompact) | Suzuki Swift 3rd gen             |
+| 11   | SUV (Subcompact)       | Toyota Yaris Cross Active Hybrid |
+| 12   | SUV (Subcompact)       | Hyundai Kona EV                  |
+| 13   | Hatchback (Compact)    | Honda Fit 4th gen                |
+| 14   | Sedan (Subcompact)     | Toyota Vios E                    |
+| 15   | MPV (Compact)          | BYD e6                           |
+| 16   | SUV (Large)            | Land Rover Defender 110          |
+| 17   | Hatchback (Compact)    | Ford Focus                       |
+| 18   | SUV (Large)            | Ford Everest                     |
+| 19   | Sedan (Compact)        | Honda Grace/City Hybrid          |
+| 20   | Crossover MPV (Compact)| Renault Scenic                   |
+| 21   | MPV (Large)            | Ssangyong Stavic                 |
+| 22   | Hatchback (Subcompact) | Toyota Agya                      |
+| 23   | SUV (Subcompact)       | Ssangyong Tivoli                 |
 
 ---
 
